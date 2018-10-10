@@ -1,0 +1,7 @@
+# ignore all testing files
+*.txt
+
+# ignore all files in testinf dirs
+Clinical_BIOSPECIMEN_Forms/*
+Clinical_Forms/*
+Research_Forms/*
