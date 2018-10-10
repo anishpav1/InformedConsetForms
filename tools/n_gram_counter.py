@@ -44,6 +44,7 @@ def wordCounter(input_file, n):
     # convert to tuples and sort
     sorted_counter = sorted(counts.items(), key=operator.itemgetter(1))
 
+    # print to stdout to use with bash
     [print(str(x[0]) + ', ' + str(x[1])) for x in sorted_counter]
 
 
