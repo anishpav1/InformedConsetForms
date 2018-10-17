@@ -1,4 +1,5 @@
 # ignore all testing files
-*.txt
+*.doc
+*.docx
 *.pdf
 *.csv

@@ -1,0 +1,89 @@
+﻿Required elements for all consent forms
+21 CFR § 50.25 and 45 CFR § §46.116Guidance
+	Sample language {note that the samples below are only suggestions and should be customized for your particular study - except for item #10, q.v.}  (1) (1) A statement that the study involves research, 
+(2)   
+{NOTE: USE SIMPLE LANGUAGE FOR THIS and ALL other SECTIONS -  Avoid the passive voice, avoid words of more than 2 syllables and avoid all technical language whenever possible}Suggested opening statement (this incorporates many of the required elements) 
+You are invited to take part in a research study being conducted by [Indicate the investigators' name and University/Departmental affiliation with earned degree(s).]  It is funded by [Indicate study sponsor, if any, and state if the sponsor is also the manufacturer of the drug/device being studied, if applicable.]. 
+
+You are being asked if you want to take part in this study because [Explain how the subject was identified.] We ask that you read this form and ask any questions you may have before agreeing to be in the study.
+
+Talk to the research team if you: Have questions, including questions about your rights, have concerns or complaints, or think you have been harmed. You can contact the Principal Investigator at [phone number] or a member of the research team at [phone number]. If you want to talk to someone else, call the Office of Human Research at 202-994-2715.  Taking part is up to you. You can refuse to take part. You can join now and quit later. Either way, it won't affect how we treat you. (3) An explanation of the purpose of the research, 
+State the question you are trying to answer or the objective of the study in lay language.  Be succinct.    
+(3) A description of the expected duration of the subject's participation The total amount of time you will spend in this study is {state amount of time}(4) The procedures to be followed, 
+Using simple language, explain the specific procedures that the subject will be involved in chronological order.  For complex or extended studies, consider including a chart/schema or calendar (these often are helpful to research participants). If this is a medical study and some procedures do not include standard of care procedures that are unrelated to the study. It is not necessary or desirable to include technical terms for procedures.  For example, Don't write "you will undergo venipuncture (have your blood taken)."  Just state "You will have your blood taken."  See Stanford University's Glossary of lay terms for help (http://humansubjects.stanford.edu/general/glossary.html) If you choose to take part in this study, the following will happen: 
+(5) Identification of any procedures which are experimental; 
+Identify any procedures (or drugs/devices) that are considered "experimental."  Indicate if study participation involves withholding of standard treatment. For medical studies, the procedures must be briefly described in simple language so that any non-medical person is able to understand it.  (6) A description of any reasonably foreseeable risks or discomforts to the subject; List all foreseeable significant risks associated with the study in lay terms. Consider all types of risks:  "CABLES" --> Cognitive, Affective (emotional), Biological (physical), Legal, Economic, Social.  For medical studies, indicate likelihood for risk (eg. "often", "rarely" etc.).  It is not necessary or desirable to list minor discomforts that would be obvious to the subject (ie. Discomfort or risks associated with a standard blood draw).   If there are significant risks to participation, the subject should be told under what conditions the researcher will stop the study.The study has the following risks: (7) A description of any benefits to the subject or to others which may reasonably be expected from the research Include direct benefits reasonably expected from the study, if any. Be particularly careful to present a realistic perspective. Note that payment to subjects is not considered a benefit.{For studies with no direct benefit} Taking part in this research will not help you directly. However, we hope that the information we get from this study may help others in the future.
+	(8) A disclosure of appropriate alternative procedures or courses of treatment, if any, that might be advantageous to the subject May omit if this study does not involve any research intervention or interaction.  For medical studies, be specific, but brief, about the treatment alternatives.  Do not just state "there are alternatives, discuss with your doctor."(9) A statement describing the extent, if any, to which confidentiality of records identifying the subject will be maintained 
+For studies involving sensitive information, include a description of how the information that will be collected about the research subject will be protected.  For example, where the records will be kept, how they will be secured, and who will have access to such records.  
+
+Omit if not relevant.
+The records of this study will be kept private. In any publications or presentations, we will not include any information that will make it possible to identify you as a subject. Research records will be stored securely and only researchers will have access to the records. 
+or
+Your record for the study may be reviewed by {indicate if the drug/device manufacturer, study sponsor or representatives of the Food and Drug Administration (FDA) may have access} and by units of the University {and hospital if applicable} responsible for overseeing research safety and compliance. (10) For research involving more than minimal risk, an explanation as to whether any compensation and an explanation as to whether any medical treatments are available if injury occurs and, if so, what they consist of, or where further information may be obtainedOmit this section in the consent form for minimal risk studies or studies that involve no risk of physical injury. 
+
+If this is an industry sponsored clinical trial, as a rule, GW expects that the sponsor will pay for treatment of all research-related injuries. Exceptions to this rule may be granted only under very limited circumstances.  Contact the OHR for further information about this.
+
+If this is an industry-sponsored clinical trial, the language in the consent form MUST correspond EXACTLY to what the sponsored-projects contract states with respect to the extent of the sponsor's commitment to cover research related injury.  SUCH STUDIES CANNOT BEGIN UNTIL THE SPONSORED PROJECTS CONTRACT IS SIGNED BY THE SPONSOR AND THE UNIVERISTY.   
+NOTE: greater-than-minimal risk medical studies MUST include one of the following 2 options exactly as written  
+
+OPTION 1 - USE IF THERE IS NO SPONSOR PAYMENT FOR RESEARCH-RELATED INJURIES:
+
+If you should suffer an injury related to your participation in this research, you should contact immediately the study doctor listed on the first page of this consent form. Necessary medical care will be provided to you.  
+
+It is possible that the costs of this medical care/ may be billed to your insurance company. There is no plan for GW or its
+affiliates to provide you with other payments for, or related to your injury.  You do not give up your legal rights by signing this form.
+
+OPTION 2 - USE IF SPONSOR PAYS FOR RESEARCH-RELATED INJURIES:  {Unless otherwise approved by GWU OHR, all studies submitted to WIRB must have this language.}
+
+If you should suffer an injury related to your participation in this research, you should contact immediately the study doctor listed on the first page of this consent form. Necessary medical care will be provided to you.  
+
+It is possible that the costs of this medical care may be billed to your insurance company. However, in the event that your insurance company does not pay these costs or you do not have insurance, the sponsor of this research study, [specify sponsor's name], will cover the costs. There is no plan for GW or its affiliates to provide you with other payments for, or related to your injury. You do not give up your legal rights by signing this form.
+
+(11) An explanation of whom to contact for answers to pertinent questions about the research{covered by suggested opening statement above}(12) an explanation of whom to contact for answers to pertinent questions about]  research subjects' rights, {covered by suggested opening statement above}(13) and whom to contact in the event of a research-related injury to the subject; Use "harm" instead of "injury" for research not greater than minimal risk{covered by suggested opening statement above}(14) A statement that participation is voluntary, refusal to participate will involve no  penalty or loss of benefits to which the subject is otherwise entitled and the subject may discontinue participation at any time without penalty or loss of benefits to which the subject is otherwise entitled {covered by suggested opening statement}
+
+
+When appropriate - omit if not relevant
+Regulation 45CFR46  requires:  (continued)GuidanceSuggested Language(1) a statement that the particular treatment or procedure may involve risks to the subject (or to the embryo or fetus, if the subject is or may become pregnant) which are currently unforeseeable(2) anticipated circumstances under which the subject's participation may be terminated by the investigator without regard to the subject's consent  
+(3) any additional costs to the subject that may result from participation in the research This element usually refers to upfront costs to the subjects when payment for the investigational product is required.  The ICD should also fully inform the subjects if they would be expected to pay for hospitalization, office visits, and cost of administering the investigational product(s).  
+(4) the consequences of a subject's decision to withdraw from the research and procedures for orderly termination of participation by the subject
+(5) A statement that significant new findings developed during the course of the research which may relate to the subject's willingness to continue participation will be provided to the subject  Significant new findings developed during the course of the research may be related to the subject's willingness to continue their participation.  New information should be provided to the subject.  
+Whether this information is required depends upon the nature of the study.  For example for dose drug studies, the subject would have no opportunity to discontinue further exposure over a period of time.  In a multiple dose drug study or implanted device study, a statement about new findings would be appropriate.  Also, whether such statements are required also depends upon other factors such as, for long-term exposure, the establishment of a mechanism to track the subject's participation.  (6) the approximate number of subjects involved in the study. If multi-center study, include number to be enrolled through GW as well as number nation-wide
+HIPAA - For studies involving HIPAA Protected Health Information 45 CFR 164.508; 45 CFR § 164.501
+Regulation requires: GuidanceSuggested LanguageIntroductory paragraph (optional)Federal laws require that researchers and health care providers protect the privacy of information that identifies you and relates to your past, present and future physical and mental health or conditions, or the provision of health care. If you agree to participate in this research, protected health information will be used and shared with others for purposes of the study. Below is more detailed information about how your health information will be shared and protected.  By signing this form, you are allowing the people and groups that are listed in the next paragraphs to use your health information for this research study.  Your information will only be used or shared as explained in this authorization form(1) A description of each purpose of the requested use or disclosure, including for the creation and maintenance of a research database or research repository.
+The use and release of protected health information is for the purpose of collecting data for this study.
+
+
+(2) A description that identifies the health information and individual identifiers to be used or disclosed in a specific and meaningful fashion.
+2. Protected Health Information to be shared: {list all PHI that will be used or disclosed for this specific study}
+(3) The name of the person(s) or class of persons authorized to make the requested use or disclosure [the covered entity providing the individually identifiable health information, the investigator, etc.];3.Who may disclose the your protected health information:  The researcher and the other members of the research team may obtain your individual health information from: 
+Hospitals: <List by name>
+Clinics: <List by name>
+Other Providers: <List by name>
+Health Plan: <List by name>
+And from hospitals, clinics, health care providers, and health plans that provide health care to you during the study {NOTE: Delete types of CE's that do NOT apply to this study}(4) The name of the person(s) or class of persons to whom the covered entity may make the requested use or disclosure [the investigator, entities the investigator may disclose the individually identifiable health information to, etc.];By signing this form, you allow the use, sharing, copying, and release of your protected health information in connection with this study by:
+* The members of the research team;
+* Other healthcare providers such as labs which are part of the study;
+* A safety monitoring board {include only if applicable}
+* Institutional officials who are responsible for compliance
+* Representatives and agents of sponsor of he study;
+* Representatives of Federal regulatory agencies such as the U.S. Food and Drug Administration (FDA)Optional clarification about what data will be put in the medical record and what will notSome of the tests in this study would have been done as part of your regular care.  These test results will be used both to treat you and to complete this research.  The test results will be recorded in your medical record. These study results will be included in your medical record.  Results of tests and studies done solely for this research study and not as part of your regular care will [also] OR [not] be included in your medical record.	
+{or use this alternative statement:}
+All tests are being done only because you are in this study.  The study results will [not] be [given to you to send] OR [sent] to your physician to include in your medical record(5) A statement that individually identifiable health information collected with the authorization may be re-disclosed by a recipient and no longer be protected;
+Once your health information has been disclosed to others outside of the hospitals and medical practices {customize this part of the phrase to fit this study}, the information may no longer be covered by the federal regulation that protects privacy of health information.    (6) An expiration date or expiration event for the authorization that relates to the purpose of the use or disclosure. 
+{this item is addressed in another paragraph, see below}(7) The ability or inability to condition treatment, payment, enrollment or eligibility for benefits on the authorization.  Conditioning of treatment can only occur under specific circumstances. 
+Not signing this form or later canceling your permission will not affect your health care treatment outside the study, payment for health care from a health plan, or ability to get health plan benefits. However, f you do not give permission to use your PHI, you may not take part in this study because your PHI is needed in order to conduct this study.
+(8) The individual's right to revoke the authorization in writing and the exceptions to the right to revoke, together with a description of how the individual may revoke the authorization;
+
+This Authorization does not have an expiration date.  
+
+However, you may cancel this authorization at any time.  Even if you cancel this authorization, the researchers may still use the protected health information they already have about you..  However, no new PHI or new biological specimens will be collected from you after you cancel your permission.
+
+To cancel your permission, you will need to send a letter to {name Principal Investigator) stating that you are canceling your authorization. This letter must be signed and dated and sent to this address: {enter the name and address of the Principal Investigator}.  (9) The signature and date of the research subject or their personal representative, including a description of a personal representative's authority to act for the subject.
+Guidance for Developing a Medical Research Consent Form
+
+
+
+
+1
+09/07/2009
+
