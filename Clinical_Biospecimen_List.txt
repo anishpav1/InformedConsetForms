@@ -1,0 +1,26 @@
+Clinical+BIOSPECIMEN_InformedConsentForms_asTextFiles//Copy of SA Pathology_Genomic-Testing-Form-PUB-0490-v2.txt
+Clinical+BIOSPECIMEN_InformedConsentForms_asTextFiles//Copy of Reboot Center_Consent-Form.txt
+Clinical+BIOSPECIMEN_InformedConsentForms_asTextFiles//Copy of OrthopaedicSurgeryProcedureWithPhotoConsent_Redacted.txt
+Clinical+BIOSPECIMEN_InformedConsentForms_asTextFiles//HallifaxHealth_Consent.txt
+Clinical+BIOSPECIMEN_InformedConsentForms_asTextFiles//Copy of INOVA HEALTH SYSTEM_Surgery with Blood Consent.txt
+Clinical+BIOSPECIMEN_InformedConsentForms_asTextFiles//Copy of NHS_United Kingdom_Investigation or Treatment.txt
+Clinical+BIOSPECIMEN_InformedConsentForms_asTextFiles//RCMelbourne_Procedural Consent Form_April 2016 Final.txt
+Clinical+BIOSPECIMEN_InformedConsentForms_asTextFiles//Copy of University of Nebraska_consent-hereditarycancer.txt
+Clinical+BIOSPECIMEN_InformedConsentForms_asTextFiles//Copy of St. Josephs_General Consent Form - English.txt
+Clinical+BIOSPECIMEN_InformedConsentForms_asTextFiles//Copy of YALE NEW HAVEN HEALTH_Consent for Operation or Special Procedure.txt
+Clinical+BIOSPECIMEN_InformedConsentForms_asTextFiles//Copy of Pediatric Dental of Idaho_consentform.txt
+Clinical+BIOSPECIMEN_InformedConsentForms_asTextFiles//Copy of THE VALLEY HOSPITAL_Surgical Consent Form.txt
+Clinical+BIOSPECIMEN_InformedConsentForms_asTextFiles//Copy of Mayo Clinic_Informed Consent for Genetic Testing.txt
+Clinical+BIOSPECIMEN_InformedConsentForms_asTextFiles//NCSC_patient-consent-on-Admission.txt
+Clinical+BIOSPECIMEN_InformedConsentForms_asTextFiles//Copy of Icahn School of Medicine at Mount Sinai_Counsyl-Consent.txt
+Clinical+BIOSPECIMEN_InformedConsentForms_asTextFiles//CHMC_Annual Medical Care Consent  Financial Responsibility Agreement.txt
+Clinical+BIOSPECIMEN_InformedConsentForms_asTextFiles//Copy of Athena Diagnostics_NeuromeConsent.txt
+Clinical+BIOSPECIMEN_InformedConsentForms_asTextFiles//Copy of UTSouthwestern_patient-consent-for-ngs-form.txt
+Clinical+BIOSPECIMEN_InformedConsentForms_asTextFiles//Copy of Kaleida Health_Med and Surg treatment consent.txt
+Clinical+BIOSPECIMEN_InformedConsentForms_asTextFiles//Copy of Illumina_Patient Informed Consent.txt
+Clinical+BIOSPECIMEN_InformedConsentForms_asTextFiles//CHMC_Per-Consent-Rev.txt
+Clinical+BIOSPECIMEN_InformedConsentForms_asTextFiles//Copy of JFK Medical Center_Consent-for-Open-Heart-Surgery.txt
+Clinical+BIOSPECIMEN_InformedConsentForms_asTextFiles//Copy of Animas Surgical_ASHConsent.txt
+Clinical+BIOSPECIMEN_InformedConsentForms_asTextFiles//Copy of Iowa Institute of Human Genetics_Consent for Clinical DNA Sequencing FINAL Version.txt
+Clinical+BIOSPECIMEN_InformedConsentForms_asTextFiles//Copy of Avera_Informed-Consent-Pharmacogenetics.txt
+Clinical+BIOSPECIMEN_InformedConsentForms_asTextFiles//Copy of Highland Hospital_Device Implant Consent.txt
