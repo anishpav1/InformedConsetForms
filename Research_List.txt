@@ -1,175 +1,175 @@
-Research_InformedConsentFoms_asTextFiles//TAMU - HRPP Informed consent.txt
-Research_InformedConsentFoms_asTextFiles//Biomed_child_assent_UCSD.txt
-Research_InformedConsentFoms_asTextFiles//HMH - Biobanking-Genetic Research.txt
-Research_InformedConsentFoms_asTextFiles//HRP-507 Assent Ages 13-17.txt
-Research_InformedConsentFoms_asTextFiles//Attestation_Form-6_14.txt
-Research_InformedConsentFoms_asTextFiles//2007-5832_Biopsy_Consent_12-10-08.txt
-Research_InformedConsentFoms_asTextFiles//Consent-and-Authorization-Forms-Clinical-8-12-2014.txt
-Research_InformedConsentFoms_asTextFiles//optional-procedure-language-for-data-specimen-banking.txt
-Research_InformedConsentFoms_asTextFiles//CF-Template_Biomed_PermissionParent.txt
-Research_InformedConsentFoms_asTextFiles//GWU_Medical_Consent_Guidance_Document.txt
-Research_InformedConsentFoms_asTextFiles//Repository1.txt
-Research_InformedConsentFoms_asTextFiles//icmodel.txt
-Research_InformedConsentFoms_asTextFiles//hipaaconsentform.txt
-Research_InformedConsentFoms_asTextFiles//HandN approved 02112013 UMBRELLA INFORMED CONSENT.txt
-Research_InformedConsentFoms_asTextFiles//pediatric_CCGP_consent.txt
-Research_InformedConsentFoms_asTextFiles//Parental-Permission-Form-6-12-2017 (1).txt
-Research_InformedConsentFoms_asTextFiles//Assent-7-11.txt
-Research_InformedConsentFoms_asTextFiles//Informed consent for sample storage.txt
-Research_InformedConsentFoms_asTextFiles//t502a_icf_consent_form_v2016-07_0.txt
-Research_InformedConsentFoms_asTextFiles//HSBS_Template_ConsentClinical.txt
-Research_InformedConsentFoms_asTextFiles//OSU-WIRBConsentTemplate_09302014.txt
-Research_InformedConsentFoms_asTextFiles//PhysicalrisktemplateplusHIPAA_zeroinstructions5-31-17.txt
-Research_InformedConsentFoms_asTextFiles//blood-draw-consent.txt
-Research_InformedConsentFoms_asTextFiles//t503a_final_ua-bh_icf_hipaa_v2016-10.txt
-Research_InformedConsentFoms_asTextFiles//ConsentandAuthorizationDocument-Template.txt
-Research_InformedConsentFoms_asTextFiles//Northwestern-PGx-Physician-Consent-Revised-011113.txt
-Research_InformedConsentFoms_asTextFiles//Med_survey_consent.txt
-Research_InformedConsentFoms_asTextFiles//207 - sample-assent-form (1).txt
-Research_InformedConsentFoms_asTextFiles//institute-biorepository-consent-form (1).txt
-Research_InformedConsentFoms_asTextFiles//Informed Consent Document_Biomedical Template.txt
-Research_InformedConsentFoms_asTextFiles//Informed_Consent_Document_Template.txt
-Research_InformedConsentFoms_asTextFiles//PrincetonU-Adult Consent Form.txt
-Research_InformedConsentFoms_asTextFiles//ic_adult.txt
-Research_InformedConsentFoms_asTextFiles//SUSampCons_somatic_cell_HIPAA_110410.txt
-Research_InformedConsentFoms_asTextFiles//Parent_Guardian_Permission_Form_CE.txt
-Research_InformedConsentFoms_asTextFiles//PMBB Informed Consent (1).txt
-Research_InformedConsentFoms_asTextFiles//blood-draw-consent-template.txt
-Research_InformedConsentFoms_asTextFiles//NANT_2009-03_Sample_Consent_Assent.txt
-Research_InformedConsentFoms_asTextFiles//eMERGE-Consent-V7-12-17-2014-CLEAN-6.txt
-Research_InformedConsentFoms_asTextFiles//eMERGE_GH_PGxConsentForm.txt
-Research_InformedConsentFoms_asTextFiles//Assent-for-Participants-Aged-7-13.txt
-Research_InformedConsentFoms_asTextFiles//D58-Issues-to-Address_Informed-Consent-for-Tissue-Specimen.txt
-Research_InformedConsentFoms_asTextFiles//informed-consent-embryo-gamete.txt
-Research_InformedConsentFoms_asTextFiles//206 - sample-consent-form.txt
-Research_InformedConsentFoms_asTextFiles//Marshfield-PGx-IRB-Approved-CF-10-11-2012.txt
-Research_InformedConsentFoms_asTextFiles//ic_parent.txt
-Research_InformedConsentFoms_asTextFiles//Cranio_Consent_2.txt
-Research_InformedConsentFoms_asTextFiles//Beskow_Simplified-consent-English.txt
-Research_InformedConsentFoms_asTextFiles//HRP-502b - TEMPLATE CONSENT DOCUMENT.INCAPACITATEDADULT.txt
-Research_InformedConsentFoms_asTextFiles//CI_20OSAS_20consent_208.7.13_20clean.txt
-Research_InformedConsentFoms_asTextFiles//informed-consent-biomedical.txt
-Research_InformedConsentFoms_asTextFiles//MCRC consent pts-8May15-STAMPED.txt
-Research_InformedConsentFoms_asTextFiles//Assent-Form-Template-March-20132.txt
-Research_InformedConsentFoms_asTextFiles//SUSampCons-bd.txt
-Research_InformedConsentFoms_asTextFiles//InformedConsent-biospecimens.txt
-Research_InformedConsentFoms_asTextFiles//IC-RA_combined_2014-12-2.txt
-Research_InformedConsentFoms_asTextFiles//PGx-consent-v6.txt
-Research_InformedConsentFoms_asTextFiles//Model-Consent-Minimal-Risk.txt
-Research_InformedConsentFoms_asTextFiles//expedited-consent-template.txt
-Research_InformedConsentFoms_asTextFiles//Mayo-Right-Consent-06072012.txt
-Research_InformedConsentFoms_asTextFiles//informed-consent-somatic-cell.txt
-Research_InformedConsentFoms_asTextFiles//Beskow_Simplified-consent-English (1).txt
-Research_InformedConsentFoms_asTextFiles//Clinical-Research-Consent-Form.txt
-Research_InformedConsentFoms_asTextFiles//Form E.txt
-Research_InformedConsentFoms_asTextFiles//assent.txt
-Research_InformedConsentFoms_asTextFiles//Parental-Permission-Form-6-12-2017.txt
-Research_InformedConsentFoms_asTextFiles//assent-form.txt
-Research_InformedConsentFoms_asTextFiles//Consent-and-Authorization-Forms-Repository-Only-7-3-2014.txt
-Research_InformedConsentFoms_asTextFiles//Family Biorepository Consent Form_STAMPED_9.12.17.txt
-Research_InformedConsentFoms_asTextFiles//adult_WES_consent.txt
-Research_InformedConsentFoms_asTextFiles//Health-Sciences-Consent3.txt
-Research_InformedConsentFoms_asTextFiles//consent-mr.txt
-Research_InformedConsentFoms_asTextFiles//Informed Consent - Biomedical Template_December 2016.txt
-Research_InformedConsentFoms_asTextFiles//TTP_20Informed_20Consent_20Change_20PI_20to_20CSG-clean.txt
-Research_InformedConsentFoms_asTextFiles//Form D.txt
-Research_InformedConsentFoms_asTextFiles//HRP-502-TEMPLATE-CONSENT-DOCUMENT-101116 (1).txt
-Research_InformedConsentFoms_asTextFiles//BMT CTN 1502 Patient Informed Consent_v1.0.txt
-Research_InformedConsentFoms_asTextFiles//Tissue-Banking-Worksheet.txt
-Research_InformedConsentFoms_asTextFiles//GHUCCTS-consent-2012.11.29 (1).txt
-Research_InformedConsentFoms_asTextFiles//Supplement-C_9-2016.txt
-Research_InformedConsentFoms_asTextFiles//Consent-Minimal-Low-Risk-Studies.txt
-Research_InformedConsentFoms_asTextFiles//Study Information Sheet - Expedited Template (v09.04.2012).txt
-Research_InformedConsentFoms_asTextFiles//institute-biorepository-consent-form.txt
-Research_InformedConsentFoms_asTextFiles//2014-1709_HIPAA_Authorization_3A_UCI_provider_03-06-15.txt
-Research_InformedConsentFoms_asTextFiles//Consent-and-Authorization-Knight-Cancer-Institute-FINAL-5-3-2013.txt
-Research_InformedConsentFoms_asTextFiles//assent-template.txt
-Research_InformedConsentFoms_asTextFiles//Form6.txt
-Research_InformedConsentFoms_asTextFiles//HSIRB-IC-Template-and-Instructions-3-6-17.txt
-Research_InformedConsentFoms_asTextFiles//Informed-Consent-Template-for-Genetic-Testing-9-23-16.txt
-Research_InformedConsentFoms_asTextFiles//assent-w.txt
-Research_InformedConsentFoms_asTextFiles//InfConsent.txt
-Research_InformedConsentFoms_asTextFiles//Mayo_Clinic_PAD_consent_document.txt
-Research_InformedConsentFoms_asTextFiles//pregnant_woman_form (1).txt
-Research_InformedConsentFoms_asTextFiles//Non-PhysicalInterventiontemplateplusHIPAA_zeroinstructions5-31-17.txt
-Research_InformedConsentFoms_asTextFiles//NCI_IC_Template (1).txt
-Research_InformedConsentFoms_asTextFiles//Genetic-Screening.txt
-Research_InformedConsentFoms_asTextFiles//CF-Template_Biomed (1).txt
-Research_InformedConsentFoms_asTextFiles//ic_cell.txt
-Research_InformedConsentFoms_asTextFiles//Tissue Banking Consent Language 091513.txt
-Research_InformedConsentFoms_asTextFiles//fc-consent-template (1).txt
-Research_InformedConsentFoms_asTextFiles//HRP-502-TEMPLATE-CONSENT-DOCUMENT-101116.txt
-Research_InformedConsentFoms_asTextFiles//ic-note.txt
-Research_InformedConsentFoms_asTextFiles//Assent-12-17.txt
-Research_InformedConsentFoms_asTextFiles//TAMU - HRPP Informed consent (1).txt
-Research_InformedConsentFoms_asTextFiles//RASCALConsentformbuilderSampleText4412.txt
-Research_InformedConsentFoms_asTextFiles//BioLibrary Informed Consent 1-11-12 Vs  7.txt
-Research_InformedConsentFoms_asTextFiles//MDACC - Informed Consent for Research Participation.txt
-Research_InformedConsentFoms_asTextFiles//HRP-592-TEMPLATE-Biomedical-Consent-Form.txt
-Research_InformedConsentFoms_asTextFiles//assent-1.txt
-Research_InformedConsentFoms_asTextFiles//207 - sample-assent-form.txt
-Research_InformedConsentFoms_asTextFiles//specimen-consent.txt
-Research_InformedConsentFoms_asTextFiles//informed-consent-template-language-for-gds.txt
-Research_InformedConsentFoms_asTextFiles//Marshfield-Consent-Form-10.28.13.txt
-Research_InformedConsentFoms_asTextFiles//Consent-and-Authorization-Forms-Repository-Only-7-3-2014 (1).txt
-Research_InformedConsentFoms_asTextFiles//pregnant_woman_form.txt
-Research_InformedConsentFoms_asTextFiles//HRP-506 Assent Ages 7-12.txt
-Research_InformedConsentFoms_asTextFiles//AssentTx10205.txt
-Research_InformedConsentFoms_asTextFiles//assent-2.txt
-Research_InformedConsentFoms_asTextFiles//PMBB Informed Consent (2).txt
-Research_InformedConsentFoms_asTextFiles//biomedical-cancer-consent.txt
-Research_InformedConsentFoms_asTextFiles//assent-3.txt
-Research_InformedConsentFoms_asTextFiles//Assent-Template-12-17-years-of-age-03-12-2012.txt
-Research_InformedConsentFoms_asTextFiles//adult_CCGP_consent.txt
-Research_InformedConsentFoms_asTextFiles//Consent_UF_Biorepository.txt
-Research_InformedConsentFoms_asTextFiles//VU-eMERGEPGx-Consent-share.txt
-Research_InformedConsentFoms_asTextFiles//Patient-Consent-wTrack-Changes.txt
-Research_InformedConsentFoms_asTextFiles//Adult_ICF_CE.txt
-Research_InformedConsentFoms_asTextFiles//Consent-and-Authorization-Forms-Shriners-8-12-2014.txt
-Research_InformedConsentFoms_asTextFiles//HRP-502c - TEMPLATE CONSENT DOCUMENT.CHILD.txt
-Research_InformedConsentFoms_asTextFiles//CF-Template_Biomed.txt
-Research_InformedConsentFoms_asTextFiles//eMERGE_ApprovedConsent.txt
-Research_InformedConsentFoms_asTextFiles//standard-language-options-for-consent-form.txt
-Research_InformedConsentFoms_asTextFiles//Example Child Assent Form for Children up to Age 8.txt
-Research_InformedConsentFoms_asTextFiles//Assent-Form1.txt
-Research_InformedConsentFoms_asTextFiles//CF-Template_Biomed_Assent712YrOld.txt
-Research_InformedConsentFoms_asTextFiles//IC-RA_combined_2014-12-2 (1).txt
-Research_InformedConsentFoms_asTextFiles//HRP-585 - TEMPLATE PARENTAL PERMISSION DOCUMENT.txt
-Research_InformedConsentFoms_asTextFiles//EIRH-GM-Consent_Final-Draft.txt
-Research_InformedConsentFoms_asTextFiles//Biomedical_Model_Consent.txt
-Research_InformedConsentFoms_asTextFiles//NCI_IC_Template.txt
-Research_InformedConsentFoms_asTextFiles//icfguide.txt
-Research_InformedConsentFoms_asTextFiles//Duke-excess-sample-consent-form.txt
-Research_InformedConsentFoms_asTextFiles//10170-Form-C-Med-and-HIPAA-Bank.txt
-Research_InformedConsentFoms_asTextFiles//ICF Parental Consent-clinicalstudies.txt
-Research_InformedConsentFoms_asTextFiles//VAConsentDocumentTemplate.txt
-Research_InformedConsentFoms_asTextFiles//GI_20Biorepository_20ICF-HIPAA__11-25-2014.txt
-Research_InformedConsentFoms_asTextFiles//Form D (1).txt
-Research_InformedConsentFoms_asTextFiles//SUSampCons.txt
-Research_InformedConsentFoms_asTextFiles//NUgeneConsent_version_3.12.15_Expires_11.22.16.txt
-Research_InformedConsentFoms_asTextFiles//fc-consent-template.txt
-Research_InformedConsentFoms_asTextFiles//doc-20086428.txt
-Research_InformedConsentFoms_asTextFiles//HRP-502a - TEMPLATE CONSENT DOCUMENT ADULT-EHC- dated 3 2013.txt
-Research_InformedConsentFoms_asTextFiles//G_Genetic_Consent.txt
-Research_InformedConsentFoms_asTextFiles//InformedConsent-clinicalstudies.txt
-Research_InformedConsentFoms_asTextFiles//MyCode-Consent-Version-28.txt
-Research_InformedConsentFoms_asTextFiles//AssentDocumentTemplate (1).txt
-Research_InformedConsentFoms_asTextFiles//CRC_Template_Dec_2013.txt
-Research_InformedConsentFoms_asTextFiles//wirb-consent-form-template.txt
-Research_InformedConsentFoms_asTextFiles//consent-with-hippa- ophs- changes-110209.txt
-Research_InformedConsentFoms_asTextFiles//informed-consent-wirb.txt
-Research_InformedConsentFoms_asTextFiles//ConsentFormExample texas.txt
-Research_InformedConsentFoms_asTextFiles//HRP-500 - TEMPLATE Consent Biomed_Clean_16DEC16 (1).txt
-Research_InformedConsentFoms_asTextFiles//IRB_Guidance_Elements_IC.txt
-Research_InformedConsentFoms_asTextFiles//6.3.1.1_TCGA.Model.InformedConsent.Form.Prospective_Nov2011_508.txt
-Research_InformedConsentFoms_asTextFiles//assent-form-template.txt
-Research_InformedConsentFoms_asTextFiles//AssentNTx10204.txt
-Research_InformedConsentFoms_asTextFiles//SuS-ICS-IRB-Approved-Consent-Form.txt
-Research_InformedConsentFoms_asTextFiles//SUSampCons_CA_privacy.txt
-Research_InformedConsentFoms_asTextFiles//consent-gtmr.txt
-Research_InformedConsentFoms_asTextFiles//IRB med template.txt
-Research_InformedConsentFoms_asTextFiles//BUMC-WIRB-ICF-Template (1).txt
-Research_InformedConsentFoms_asTextFiles//HandN approved 02112013 NORMALS INFORMED CONSENT.txt
-Research_InformedConsentFoms_asTextFiles//HRP-583-TEMPLATE-Assent-Form.txt
-Research_InformedConsentFoms_asTextFiles//CF-Template_Biomed_Assent1317YrOld.txt
-Research_InformedConsentFoms_asTextFiles//SCAN Informed Consent - 3.10.2013.txt
+TAMU - HRPP Informed consent.txt
+Biomed_child_assent_UCSD.txt
+HMH - Biobanking-Genetic Research.txt
+HRP-507 Assent Ages 13-17.txt
+Attestation_Form-6_14.txt
+2007-5832_Biopsy_Consent_12-10-08.txt
+Consent-and-Authorization-Forms-Clinical-8-12-2014.txt
+optional-procedure-language-for-data-specimen-banking.txt
+CF-Template_Biomed_PermissionParent.txt
+GWU_Medical_Consent_Guidance_Document.txt
+Repository1.txt
+icmodel.txt
+hipaaconsentform.txt
+HandN approved 02112013 UMBRELLA INFORMED CONSENT.txt
+pediatric_CCGP_consent.txt
+Parental-Permission-Form-6-12-2017 (1).txt
+Assent-7-11.txt
+Informed consent for sample storage.txt
+t502a_icf_consent_form_v2016-07_0.txt
+HSBS_Template_ConsentClinical.txt
+OSU-WIRBConsentTemplate_09302014.txt
+PhysicalrisktemplateplusHIPAA_zeroinstructions5-31-17.txt
+blood-draw-consent.txt
+t503a_final_ua-bh_icf_hipaa_v2016-10.txt
+ConsentandAuthorizationDocument-Template.txt
+Northwestern-PGx-Physician-Consent-Revised-011113.txt
+Med_survey_consent.txt
+207 - sample-assent-form (1).txt
+institute-biorepository-consent-form (1).txt
+Informed Consent Document_Biomedical Template.txt
+Informed_Consent_Document_Template.txt
+PrincetonU-Adult Consent Form.txt
+ic_adult.txt
+SUSampCons_somatic_cell_HIPAA_110410.txt
+Parent_Guardian_Permission_Form_CE.txt
+PMBB Informed Consent (1).txt
+blood-draw-consent-template.txt
+NANT_2009-03_Sample_Consent_Assent.txt
+eMERGE-Consent-V7-12-17-2014-CLEAN-6.txt
+eMERGE_GH_PGxConsentForm.txt
+Assent-for-Participants-Aged-7-13.txt
+D58-Issues-to-Address_Informed-Consent-for-Tissue-Specimen.txt
+informed-consent-embryo-gamete.txt
+206 - sample-consent-form.txt
+Marshfield-PGx-IRB-Approved-CF-10-11-2012.txt
+ic_parent.txt
+Cranio_Consent_2.txt
+Beskow_Simplified-consent-English.txt
+HRP-502b - TEMPLATE CONSENT DOCUMENT.INCAPACITATEDADULT.txt
+CI_20OSAS_20consent_208.7.13_20clean.txt
+informed-consent-biomedical.txt
+MCRC consent pts-8May15-STAMPED.txt
+Assent-Form-Template-March-20132.txt
+SUSampCons-bd.txt
+InformedConsent-biospecimens.txt
+IC-RA_combined_2014-12-2.txt
+PGx-consent-v6.txt
+Model-Consent-Minimal-Risk.txt
+expedited-consent-template.txt
+Mayo-Right-Consent-06072012.txt
+informed-consent-somatic-cell.txt
+Beskow_Simplified-consent-English (1).txt
+Clinical-Research-Consent-Form.txt
+Form E.txt
+assent.txt
+Parental-Permission-Form-6-12-2017.txt
+assent-form.txt
+Consent-and-Authorization-Forms-Repository-Only-7-3-2014.txt
+Family Biorepository Consent Form_STAMPED_9.12.17.txt
+adult_WES_consent.txt
+Health-Sciences-Consent3.txt
+consent-mr.txt
+Informed Consent - Biomedical Template_December 2016.txt
+TTP_20Informed_20Consent_20Change_20PI_20to_20CSG-clean.txt
+Form D.txt
+HRP-502-TEMPLATE-CONSENT-DOCUMENT-101116 (1).txt
+BMT CTN 1502 Patient Informed Consent_v1.0.txt
+Tissue-Banking-Worksheet.txt
+GHUCCTS-consent-2012.11.29 (1).txt
+Supplement-C_9-2016.txt
+Consent-Minimal-Low-Risk-Studies.txt
+Study Information Sheet - Expedited Template (v09.04.2012).txt
+institute-biorepository-consent-form.txt
+2014-1709_HIPAA_Authorization_3A_UCI_provider_03-06-15.txt
+Consent-and-Authorization-Knight-Cancer-Institute-FINAL-5-3-2013.txt
+assent-template.txt
+Form6.txt
+HSIRB-IC-Template-and-Instructions-3-6-17.txt
+Informed-Consent-Template-for-Genetic-Testing-9-23-16.txt
+assent-w.txt
+InfConsent.txt
+Mayo_Clinic_PAD_consent_document.txt
+pregnant_woman_form (1).txt
+Non-PhysicalInterventiontemplateplusHIPAA_zeroinstructions5-31-17.txt
+NCI_IC_Template (1).txt
+Genetic-Screening.txt
+CF-Template_Biomed (1).txt
+ic_cell.txt
+Tissue Banking Consent Language 091513.txt
+fc-consent-template (1).txt
+HRP-502-TEMPLATE-CONSENT-DOCUMENT-101116.txt
+ic-note.txt
+Assent-12-17.txt
+TAMU - HRPP Informed consent (1).txt
+RASCALConsentformbuilderSampleText4412.txt
+BioLibrary Informed Consent 1-11-12 Vs  7.txt
+MDACC - Informed Consent for Research Participation.txt
+HRP-592-TEMPLATE-Biomedical-Consent-Form.txt
+assent-1.txt
+207 - sample-assent-form.txt
+specimen-consent.txt
+informed-consent-template-language-for-gds.txt
+Marshfield-Consent-Form-10.28.13.txt
+Consent-and-Authorization-Forms-Repository-Only-7-3-2014 (1).txt
+pregnant_woman_form.txt
+HRP-506 Assent Ages 7-12.txt
+AssentTx10205.txt
+assent-2.txt
+PMBB Informed Consent (2).txt
+biomedical-cancer-consent.txt
+assent-3.txt
+Assent-Template-12-17-years-of-age-03-12-2012.txt
+adult_CCGP_consent.txt
+Consent_UF_Biorepository.txt
+VU-eMERGEPGx-Consent-share.txt
+Patient-Consent-wTrack-Changes.txt
+Adult_ICF_CE.txt
+Consent-and-Authorization-Forms-Shriners-8-12-2014.txt
+HRP-502c - TEMPLATE CONSENT DOCUMENT.CHILD.txt
+CF-Template_Biomed.txt
+eMERGE_ApprovedConsent.txt
+standard-language-options-for-consent-form.txt
+Example Child Assent Form for Children up to Age 8.txt
+Assent-Form1.txt
+CF-Template_Biomed_Assent712YrOld.txt
+IC-RA_combined_2014-12-2 (1).txt
+HRP-585 - TEMPLATE PARENTAL PERMISSION DOCUMENT.txt
+EIRH-GM-Consent_Final-Draft.txt
+Biomedical_Model_Consent.txt
+NCI_IC_Template.txt
+icfguide.txt
+Duke-excess-sample-consent-form.txt
+10170-Form-C-Med-and-HIPAA-Bank.txt
+ICF Parental Consent-clinicalstudies.txt
+VAConsentDocumentTemplate.txt
+GI_20Biorepository_20ICF-HIPAA__11-25-2014.txt
+Form D (1).txt
+SUSampCons.txt
+NUgeneConsent_version_3.12.15_Expires_11.22.16.txt
+fc-consent-template.txt
+doc-20086428.txt
+HRP-502a - TEMPLATE CONSENT DOCUMENT ADULT-EHC- dated 3 2013.txt
+G_Genetic_Consent.txt
+InformedConsent-clinicalstudies.txt
+MyCode-Consent-Version-28.txt
+AssentDocumentTemplate (1).txt
+CRC_Template_Dec_2013.txt
+wirb-consent-form-template.txt
+consent-with-hippa- ophs- changes-110209.txt
+informed-consent-wirb.txt
+ConsentFormExample texas.txt
+HRP-500 - TEMPLATE Consent Biomed_Clean_16DEC16 (1).txt
+IRB_Guidance_Elements_IC.txt
+6.3.1.1_TCGA.Model.InformedConsent.Form.Prospective_Nov2011_508.txt
+assent-form-template.txt
+AssentNTx10204.txt
+SuS-ICS-IRB-Approved-Consent-Form.txt
+SUSampCons_CA_privacy.txt
+consent-gtmr.txt
+IRB med template.txt
+BUMC-WIRB-ICF-Template (1).txt
+HandN approved 02112013 NORMALS INFORMED CONSENT.txt
+HRP-583-TEMPLATE-Assent-Form.txt
+CF-Template_Biomed_Assent1317YrOld.txt
+SCAN Informed Consent - 3.10.2013.txt
