@@ -1,310 +1,310 @@
-Admission-General Consent Forms_asTextFiles/HallifaxHealth_Consent.txt
-Admission-General Consent Forms_asTextFiles/RCMelbourne_Procedural Consent Form_April 2016 Final.txt
-Admission-General Consent Forms_asTextFiles/CHC_Admission Consent Form 01.16.17.txt
-Admission-General Consent Forms_asTextFiles/HallifaxHealth_Consent (1).txt
-Admission-General Consent Forms_asTextFiles/Summit_consent-admit_treat (1).txt
-Admission-General Consent Forms_asTextFiles/NCSC_patient-consent-on-Admission.txt
-Admission-General Consent Forms_asTextFiles/Consent, Acknowledgement and Authorizations.txt
-Admission-General Consent Forms_asTextFiles/william-clements-university-hospital_-consent-for-admission-english.txt
-Admission-General Consent Forms_asTextFiles/NCSC_patient-consent-on-Admission (1).txt
-Admission-General Consent Forms_asTextFiles/CHMC_Annual Medical Care Consent  Financial Responsibility Agreement.txt
-Admission-General Consent Forms_asTextFiles/CORHIM-0064 2 2016 with page numbers.txt
-Admission-General Consent Forms_asTextFiles/CHMC_Annual Medical Care Consent  Financial Responsibility Agreement (1).txt
-Admission-General Consent Forms_asTextFiles/c_084664.txt
-Admission-General Consent Forms_asTextFiles/Ambulatory_Consent_Form.txt
-Admission-General Consent Forms_asTextFiles/SparrowLansing_medicalconsent.txt
-Admission-General Consent Forms_asTextFiles/H0065Consents.txt
-Admission-General Consent Forms_asTextFiles/Summit_consent-admit_treat.txt
-Admission-General Consent Forms_asTextFiles/NCH_Consent upon admission.txt
-Admission-General Consent Forms_asTextFiles/AdmissionConsentForm (2).txt
-Admission-General Consent Forms_asTextFiles/CHMC_Per-Consent-Rev.txt
-Admission-General Consent Forms_asTextFiles/BrushyCreek_AcknowledgementDisclosureConsent.txt
-Admission-General Consent Forms_asTextFiles/OUMed_admission and outpatient.txt
-Admission-General Consent Forms_asTextFiles/RL_Informed Consent for Treatment.txt
-Admission-General Consent Forms_asTextFiles/CHMC_Per-Consent-Rev (1).txt
+HallifaxHealth_Consent.txt
+RCMelbourne_Procedural Consent Form_April 2016 Final.txt
+CHC_Admission Consent Form 01.16.17.txt
+HallifaxHealth_Consent (1).txt
+Summit_consent-admit_treat (1).txt
+NCSC_patient-consent-on-Admission.txt
+Consent, Acknowledgement and Authorizations.txt
+william-clements-university-hospital_-consent-for-admission-english.txt
+NCSC_patient-consent-on-Admission (1).txt
+CHMC_Annual Medical Care Consent  Financial Responsibility Agreement.txt
+CORHIM-0064 2 2016 with page numbers.txt
+CHMC_Annual Medical Care Consent  Financial Responsibility Agreement (1).txt
+c_084664.txt
+Ambulatory_Consent_Form.txt
+SparrowLansing_medicalconsent.txt
+H0065Consents.txt
+Summit_consent-admit_treat.txt
+NCH_Consent upon admission.txt
+AdmissionConsentForm (2).txt
+CHMC_Per-Consent-Rev.txt
+BrushyCreek_AcknowledgementDisclosureConsent.txt
+OUMed_admission and outpatient.txt
+RL_Informed Consent for Treatment.txt
+CHMC_Per-Consent-Rev (1).txt
 KINGS_COUNTY_HOSPITAL_CENTER_DNRConsentPolicyKCH.txt
-Natropathy Informed Consent Forms_asTextFiles/Vitalis_natropath_consent_to_treat.txt
-Natropathy Informed Consent Forms_asTextFiles/Seattle_Health_acupuncture_consent_form.txt
-Natropathy Informed Consent Forms_asTextFiles/Lifespan_natropath_consent_to_treat.txt
-Natropathy Informed Consent Forms_asTextFiles/Kathy_Nordgren_Acupuncture.txt
-Natropathy Informed Consent Forms_asTextFiles/Absolute_Balance_Acupuncture.txt
-Natropathy Informed Consent Forms_asTextFiles/Lotus_Root_Acupuncture.txt
-Natropathy Informed Consent Forms_asTextFiles/Equinox_natropath.txt
-Genetic Testing Consent Forms_asTextFiles/University of Nebraska_consent-hereditarycancer.txt
-Genetic Testing Consent Forms_asTextFiles/National Jewish Health_Informed-Consent-for-Genetic-Testing.txt
-Genetic Testing Consent Forms_asTextFiles/ViaCord_Genetic Testing Courtesty Consent.txt
-Genetic Testing Consent Forms_asTextFiles/University of Alabama at Burmingham_ Genetic testing INFORMED-CONSENT-20180221.txt
-Genetic Testing Consent Forms_asTextFiles/Invitae_ Genetic Testing Patient-Consent.txt
-Genetic Testing Consent Forms_asTextFiles/Cincinnati Childrens_ DNA consent-forms-pdf.txt
-Genetic Testing Consent Forms_asTextFiles/moleculargenetics-informed-consent.txt
-Genetic Testing Consent Forms_asTextFiles/Tufts Medical Center_genetic consent form v2.txt
-Genetic Testing Consent Forms_asTextFiles/Iowa Institute of Human Genetics_Consent for Clinical DNA Sequencing FINAL Version.txt
-Genetic Testing Consent Forms_asTextFiles/Emory Genetics Laboratory_molecular-testing-consent-form.txt
-Genetic Testing Consent Forms_asTextFiles/Mayo Clinic_Informed Consent for Genetic Testing.txt
-Genetic Testing Consent Forms_asTextFiles/Michigan_Informed Consent for Genetic Testing.txt
-Genetic Testing Consent Forms_asTextFiles/Gene Dx_DNA Testing.txt
-Genetic Testing Consent Forms_asTextFiles/BAYLOR MIRACA GENETICS LABORATORIES_genetictestingconsent0215.txt
-Genetic Testing Consent Forms_asTextFiles/Illumina_Patient Informed Consent.txt
-Genetic Testing Consent Forms_asTextFiles/UTSouthwestern_patient-consent-for-ngs-form.txt
-Genetic Testing Consent Forms_asTextFiles/Integrated Genetics_Informed Consent for Genetic Testing.txt
-Genetic Testing Consent Forms_asTextFiles/Avera_Informed-Consent-Pharmacogenetics.txt
-Genetic Testing Consent Forms_asTextFiles/Athena Diagnostics_NeuromeConsent.txt
-Genetic Testing Consent Forms_asTextFiles/Icahn School of Medicine at Mount Sinai_Counsyl-Consent.txt
-Line Insertion Consent Forms_asTextFiles/Scott and White Healthcare_Arterial Line Consent.txt
-Line Insertion Consent Forms_asTextFiles/The American College of Surgeons_CVC Catheter-Consent Only.txt
-Line Insertion Consent Forms_asTextFiles/New York City Health and Hospitals Corporation_ConsentForm-PedsArterialLine.txt
-Line Insertion Consent Forms_asTextFiles/EpicVascular_InformedConsent.txt
-Line Insertion Consent Forms_asTextFiles/New York City Health and Hospitals Corporation_ConsentForm-CentralVenousCatheter.txt
-Line Insertion Consent Forms_asTextFiles/TopPICC_consent+form2.txt
-Line Insertion Consent Forms_asTextFiles/VAP-PICC-Consent-Form.txt
-Line Insertion Consent Forms_asTextFiles/ICS_Line Insertion.txt
-Line Insertion Consent Forms_asTextFiles/New York City Health and Hospitals Corporation_ConsentForm-ArterialLine.txt
-Line Insertion Consent Forms_asTextFiles/UPenn_picc_consent.txt
-Line Insertion Consent Forms_asTextFiles/informed-consent-central-line-patient.txt
-Line Insertion Consent Forms_asTextFiles/Hartford Hospital_Arterial-CVC-PA Catheter Consent.txt
-Line Insertion Consent Forms_asTextFiles/Queensland_medical_imaging_55.txt
-Line Insertion Consent Forms_asTextFiles/3262-Informed Consent Central Venous Catheter Placement.txt
-Imaging Consent Forms_asTextFiles/Ministry of Health Labor and Welfare_JAPAN_Consent for MRI.txt
-Imaging Consent Forms_asTextFiles/Health Images_MRI-Consent-Form.txt
-Imaging Consent Forms_asTextFiles/Murray Hill_MRI Patient Questionnaire.txt
-Imaging Consent Forms_asTextFiles/Molecular Imaging_MRI_Consent.txt
-Imaging Consent Forms_asTextFiles/MedCross_MRI-CONTRAST-CONSENT-FORM.txt
-Imaging Consent Forms_asTextFiles/Melbourne Radiology_mri-consentform-2016.txt
-Imaging Consent Forms_asTextFiles/Methodist Health System_MRISCREEN.txt
-Imaging Consent Forms_asTextFiles/Mater misericonrdiae_ IRELAND_MRI-Saftey-Questionnaire.txt
-Imaging Consent Forms_asTextFiles/New York City Health and Hospitals Corporation_Consent_CT_with_contrast.txt
-Imaging Consent Forms_asTextFiles/DRI Radiology_History and Consent Form_MRI Exam_ENGLISH.txt
-Imaging Consent Forms_asTextFiles/Lexington Clinic_MRI PatientConsent.txt
-Imaging Consent Forms_asTextFiles/Illinois Bone and Joint Institute_MRI-Consent-form.txt
-Imaging Consent Forms_asTextFiles/Mid America Imaging_MRI Joint-Consent.txt
-Imaging Consent Forms_asTextFiles/New York City Health and Hospitals Corporation_IVContrastScanConsentKCH.txt
-Imaging Consent Forms_asTextFiles/Health Images_INFORMED CONSENT FOR MRI WITH OR WITHOUT CONTRAST.txt
-Imaging Consent Forms_asTextFiles/Open MRI_MRI Contrast Consent Form.txt
-Imaging Consent Forms_asTextFiles/MISH Hospital_MRI-Patient-Screening-Form.txt
-Imaging Consent Forms_asTextFiles/Excel Imaging_MRI Consent.txt
-OBGYN Consent Forms_asTextFiles/OSU_Scheduled_Delivery_Consent.txt
-OBGYN Consent Forms_asTextFiles/University_of_Washington_Induction-Of-Labor-Consen.txt
-OBGYN Consent Forms_asTextFiles/Catawba_Valley_Induction_Consent.txt
-OBGYN Consent Forms_asTextFiles/Indiana_Sample_Consent_Form_Induction.txt
-OBGYN Consent Forms_asTextFiles/OU_Induction_consent-form.txt
-OBGYN Consent Forms_asTextFiles/Believe_Midwifery_PROM-Informed-Consent-Form.txt
-OBGYN Consent Forms_asTextFiles/Maddison_ovulation_induction.txt
-OBGYN Consent Forms_asTextFiles/Midwife_Refusal_of_Induction_at_42_weeks.txt
-OBGYN Consent Forms_asTextFiles/Mt-Carmel-East_consent-scheduling_induction.txt
-OBGYN Consent Forms_asTextFiles/Pomona_Valley_consent_for_induction_filled_out_.txt
-OBGYN Consent Forms_asTextFiles/Caristas_Obstetric-Consent-Form.txt
-OBGYN Consent Forms_asTextFiles/Palm_Beach_OBGYN_Obstetric_Consent.txt
-OBGYN Consent Forms_asTextFiles/Oklahoma_Abortion_Parental_Consent_form.txt
-OBGYN Consent Forms_asTextFiles/ART_SCIENCE_Induction_of_labor.txt
-OBGYN Consent Forms_asTextFiles/Valley_Hosptial_Consent_for_OB_Deliveries-Rev_2-06.txt
-OBGYN Consent Forms_asTextFiles/Henry_Ford_Induction.txt
+Vitalis_natropath_consent_to_treat.txt
+Seattle_Health_acupuncture_consent_form.txt
+Lifespan_natropath_consent_to_treat.txt
+Kathy_Nordgren_Acupuncture.txt
+Absolute_Balance_Acupuncture.txt
+Lotus_Root_Acupuncture.txt
+Equinox_natropath.txt
+University of Nebraska_consent-hereditarycancer.txt
+National Jewish Health_Informed-Consent-for-Genetic-Testing.txt
+ViaCord_Genetic Testing Courtesty Consent.txt
+University of Alabama at Burmingham_ Genetic testing INFORMED-CONSENT-20180221.txt
+Invitae_ Genetic Testing Patient-Consent.txt
+Cincinnati Childrens_ DNA consent-forms-pdf.txt
+moleculargenetics-informed-consent.txt
+Tufts Medical Center_genetic consent form v2.txt
+Iowa Institute of Human Genetics_Consent for Clinical DNA Sequencing FINAL Version.txt
+Emory Genetics Laboratory_molecular-testing-consent-form.txt
+Mayo Clinic_Informed Consent for Genetic Testing.txt
+Michigan_Informed Consent for Genetic Testing.txt
+Gene Dx_DNA Testing.txt
+BAYLOR MIRACA GENETICS LABORATORIES_genetictestingconsent0215.txt
+Illumina_Patient Informed Consent.txt
+UTSouthwestern_patient-consent-for-ngs-form.txt
+Integrated Genetics_Informed Consent for Genetic Testing.txt
+Avera_Informed-Consent-Pharmacogenetics.txt
+Athena Diagnostics_NeuromeConsent.txt
+Icahn School of Medicine at Mount Sinai_Counsyl-Consent.txt
+Scott and White Healthcare_Arterial Line Consent.txt
+The American College of Surgeons_CVC Catheter-Consent Only.txt
+New York City Health and Hospitals Corporation_ConsentForm-PedsArterialLine.txt
+EpicVascular_InformedConsent.txt
+New York City Health and Hospitals Corporation_ConsentForm-CentralVenousCatheter.txt
+TopPICC_consent+form2.txt
+VAP-PICC-Consent-Form.txt
+ICS_Line Insertion.txt
+New York City Health and Hospitals Corporation_ConsentForm-ArterialLine.txt
+UPenn_picc_consent.txt
+informed-consent-central-line-patient.txt
+Hartford Hospital_Arterial-CVC-PA Catheter Consent.txt
+Queensland_medical_imaging_55.txt
+3262-Informed Consent Central Venous Catheter Placement.txt
+Ministry of Health Labor and Welfare_JAPAN_Consent for MRI.txt
+Health Images_MRI-Consent-Form.txt
+Murray Hill_MRI Patient Questionnaire.txt
+Molecular Imaging_MRI_Consent.txt
+MedCross_MRI-CONTRAST-CONSENT-FORM.txt
+Melbourne Radiology_mri-consentform-2016.txt
+Methodist Health System_MRISCREEN.txt
+Mater misericonrdiae_ IRELAND_MRI-Saftey-Questionnaire.txt
+New York City Health and Hospitals Corporation_Consent_CT_with_contrast.txt
+DRI Radiology_History and Consent Form_MRI Exam_ENGLISH.txt
+Lexington Clinic_MRI PatientConsent.txt
+Illinois Bone and Joint Institute_MRI-Consent-form.txt
+Mid America Imaging_MRI Joint-Consent.txt
+New York City Health and Hospitals Corporation_IVContrastScanConsentKCH.txt
+Health Images_INFORMED CONSENT FOR MRI WITH OR WITHOUT CONTRAST.txt
+Open MRI_MRI Contrast Consent Form.txt
+MISH Hospital_MRI-Patient-Screening-Form.txt
+Excel Imaging_MRI Consent.txt
+OSU_Scheduled_Delivery_Consent.txt
+University_of_Washington_Induction-Of-Labor-Consen.txt
+Catawba_Valley_Induction_Consent.txt
+Indiana_Sample_Consent_Form_Induction.txt
+OU_Induction_consent-form.txt
+Believe_Midwifery_PROM-Informed-Consent-Form.txt
+Maddison_ovulation_induction.txt
+Midwife_Refusal_of_Induction_at_42_weeks.txt
+Mt-Carmel-East_consent-scheduling_induction.txt
+Pomona_Valley_consent_for_induction_filled_out_.txt
+Caristas_Obstetric-Consent-Form.txt
+Palm_Beach_OBGYN_Obstetric_Consent.txt
+Oklahoma_Abortion_Parental_Consent_form.txt
+ART_SCIENCE_Induction_of_labor.txt
+Valley_Hosptial_Consent_for_OB_Deliveries-Rev_2-06.txt
+Henry_Ford_Induction.txt
 New_York_City_Health_and_Hospitals_Corporation_HIV.txt
-Institution(Deidentified)_asTextFiles/GenericConsent_ProcedureAndOptionalTissueResearch_All-diagrams_Redacted.txt
-Institution(Deidentified)_asTextFiles/ScoliosisCorrection_Redacted.txt
-Institution(Deidentified)_asTextFiles/GenericConsent_ProcedureOnly_All-diagrams_Redacted.txt
-Institution(Deidentified)_asTextFiles/IUD(IntrauterineDevice)Insertion_Redacted.txt
-Institution(Deidentified)_asTextFiles/GenericConsent_ProcedureAndBloodTissueImplants_All-diagrams_Redacted.txt
-Institution(Deidentified)_asTextFiles/ColonoscopyEsophagogastroduodenoscopy_Redacted.txt
-Institution(Deidentified)_asTextFiles/RequestAndConsentToDentalRestorationsAndOrExtractions_Redacted.txt
-Institution(Deidentified)_asTextFiles/OrthopaedicSurgeryProcedureWithPhotoConsent_Redacted.txt
-Institution(Deidentified)_asTextFiles/Refusal_to_Consent_to_Vaccinate_Child_Adoles_Redacted.txt
-Institution(Deidentified)_asTextFiles/GenericConsent_Complete_All-diagrams__Redacted.txt
-Surgical Consent Forms_asTextFiles/JFK_Medical_Center_Consent-for-Open-Heart-Surgery.txt
-Surgical Consent Forms_asTextFiles/University_of_Colorado_Health_Informed-Consent-for.txt
-Surgical Consent Forms_asTextFiles/The_American_College_of_Surgeons_Lap_Choly-Compreh.txt
-Surgical Consent Forms_asTextFiles/The_American_College_of_Surgeons_Chest_Tube-Pre_an.txt
-Surgical Consent Forms_asTextFiles/THE_VALLEY_HOSPITAL_Surgical_Consent_Form_1_.txt
-Surgical Consent Forms_asTextFiles/YALE_NEW_HAVEN_HEALTH_Consent_for_Operation_or_Spe.txt
-Surgical Consent Forms_asTextFiles/Halifax_Health_surgicalconsent_with_blood.txt
-Surgical Consent Forms_asTextFiles/University_of_Pennsylvania_Health_System_paracente.txt
-Surgical Consent Forms_asTextFiles/Highland_Hospital_Device_Implant_Consent.txt
-Surgical Consent Forms_asTextFiles/Matilda_International_Hospital_Consent_for_Surgica.txt
-Surgical Consent Forms_asTextFiles/THE_VALLEY_HOSPITAL_Surgical_Consent_Form.txt
-Surgical Consent Forms_asTextFiles/INOVA_HEALTH_SYSTEM_Surgery_with_Blood_Consent.txt
-Surgical Consent Forms_asTextFiles/The_American_College_of_Surgeons_Appendectomy-Note.txt
-Surgical Consent Forms_asTextFiles/New_York_City_Health_and_Hospitals_Corporation_Tho.txt
-Vaccine Consent Forms_asTextFiles/Northwest_Missouri_State_University_Vaccination_Co.txt
-Vaccine Consent Forms_asTextFiles/DHHS_TANSANIA_HPV_Consent.txt
-Vaccine Consent Forms_asTextFiles/University_of_California_San_Francisco_Immunizatio.txt
-Vaccine Consent Forms_asTextFiles/Immunize_LA_gardasil_hpv_consent_and_information.txt
-Vaccine Consent Forms_asTextFiles/Viginia_Department_of_Health_FluVac16.txt
-Vaccine Consent Forms_asTextFiles/They_Physician_Network_Varicella_Immunization_Cons.txt
-Vaccine Consent Forms_asTextFiles/OxfordCounty_HPV_Vaccine_Consent_Form.txt
-Vaccine Consent Forms_asTextFiles/Stanford_immunization_consent_form.txt
-Vaccine Consent Forms_asTextFiles/Queensland_AUSTRALIA_Immunization_Consent_Form_HPV_001.txt
-Vaccine Consent Forms_asTextFiles/Kansas_Immunization_Program_Vaccine_Documenation_C.txt
-Vaccine Consent Forms_asTextFiles/Potomac_Primary_Care_flu-consent-form.txt
-Vaccine Consent Forms_asTextFiles/Toronto_Public_Health_School_Vaccination_Consent_F.txt
-Vaccine Consent Forms_asTextFiles/Niagra_Region_HPV_Vaccination_Consent_Form.txt
-Vaccine Consent Forms_asTextFiles/Florida_Institute_of_Technology_Consent-Form-for-F.txt
-Vaccine Consent Forms_asTextFiles/South_Forsyth_Family_Medicine_and_Pediatrics_vacci.txt
-Vaccine Consent Forms_asTextFiles/Wellness_Group_INFLUENZA_CONSENT_FORM_INACTIVE.txt
-Vaccine Consent Forms_asTextFiles/Kings_Daughters_Medical_Center_Clinic_hpv_consent.txt
-Vaccine Consent Forms_asTextFiles/Greenwich_Central_School_District_HEPATITIS_B_VACC.txt
-Vaccine Consent Forms_asTextFiles/Onconto_County_WI_Vaccine_Consent_Form.txt
-Vaccine Consent Forms_asTextFiles/Nova_Scotia_Department_of_Health_and_Wellness_Scho.txt
-Vaccine Consent Forms_asTextFiles/Queensland_AUSTRALIA_Immunization_Consent_Form_HPV.txt
-Vaccine Consent Forms_asTextFiles/Virginia_Institute_of_Marine_Science_Parental_Gaur.txt
-Vaccine Consent Forms_asTextFiles/HSE_Ireland_Influenza_Vaccine_Consent_Form.txt
-Vaccine Consent Forms_asTextFiles/Kroger_Universal_Vaccination_Consent_2015.txt
-Vaccine Consent Forms_asTextFiles/Kings_Daughters_Medical_Center_Clinic_6th_grade_ph.txt
-Vaccine Consent Forms_asTextFiles/HealthHub_Form_HPV_Vaccination_Consent.txt
-Vaccine Consent Forms_asTextFiles/Family_Medicine_Specialists_PC_flu_shot_consent_20.txt
-Vaccine Consent Forms_asTextFiles/Costco_Immunization_consent_form_2012_.txt
-Vaccine Consent Forms_asTextFiles/NHS_United_Kingdom_HPV_Vaccine_Consent_Form.txt
-Vaccine Consent Forms_asTextFiles/Hastings_and_Prince_Edward_Counties_Imm82HPVconsen.txt
-Vaccine Consent Forms_asTextFiles/Halton_HPV_Grade_7_Male.txt
-Vaccine Consent Forms_asTextFiles/Kent_Community_Health_Childhood-flu-consent-form-2.txt
-Vaccine Consent Forms_asTextFiles/Schwieterman_Pharmacies_consent-form-hpv-gardasil-.txt
-Vaccine Consent Forms_asTextFiles/States_of_Guernsey_HPV_consent.txt
-Vaccine Consent Forms_asTextFiles/Benzie-Leelanau_District_Health_Department_Immuniz.txt
-Vaccine Consent Forms_asTextFiles/Rite_Aid_Vaccine_Screening_and_Consent_Form.txt
-Vaccine Consent Forms_asTextFiles/Texas_HHS_Addendum_to_HPV_Vaccine_Consent.txt
-Vaccine Consent Forms_asTextFiles/Capitol_Region_Education_Council_Flu_Vaccine_conse.txt
-Vaccine Consent Forms_asTextFiles/William_and_Mary_Informed_Consent_to_Receive_Vacci.txt
-Vaccine Consent Forms_asTextFiles/Walmart_Vaccine_Administration_Record_and_Informed.txt
+GenericConsent_ProcedureAndOptionalTissueResearch_All-diagrams_Redacted.txt
+ScoliosisCorrection_Redacted.txt
+GenericConsent_ProcedureOnly_All-diagrams_Redacted.txt
+IUD(IntrauterineDevice)Insertion_Redacted.txt
+GenericConsent_ProcedureAndBloodTissueImplants_All-diagrams_Redacted.txt
+ColonoscopyEsophagogastroduodenoscopy_Redacted.txt
+RequestAndConsentToDentalRestorationsAndOrExtractions_Redacted.txt
+OrthopaedicSurgeryProcedureWithPhotoConsent_Redacted.txt
+Refusal_to_Consent_to_Vaccinate_Child_Adoles_Redacted.txt
+GenericConsent_Complete_All-diagrams__Redacted.txt
+JFK_Medical_Center_Consent-for-Open-Heart-Surgery.txt
+University_of_Colorado_Health_Informed-Consent-for.txt
+The_American_College_of_Surgeons_Lap_Choly-Compreh.txt
+The_American_College_of_Surgeons_Chest_Tube-Pre_an.txt
+THE_VALLEY_HOSPITAL_Surgical_Consent_Form_1_.txt
+YALE_NEW_HAVEN_HEALTH_Consent_for_Operation_or_Spe.txt
+Halifax_Health_surgicalconsent_with_blood.txt
+University_of_Pennsylvania_Health_System_paracente.txt
+Highland_Hospital_Device_Implant_Consent.txt
+Matilda_International_Hospital_Consent_for_Surgica.txt
+THE_VALLEY_HOSPITAL_Surgical_Consent_Form.txt
+INOVA_HEALTH_SYSTEM_Surgery_with_Blood_Consent.txt
+The_American_College_of_Surgeons_Appendectomy-Note.txt
+New_York_City_Health_and_Hospitals_Corporation_Tho.txt
+Northwest_Missouri_State_University_Vaccination_Co.txt
+DHHS_TANSANIA_HPV_Consent.txt
+University_of_California_San_Francisco_Immunizatio.txt
+Immunize_LA_gardasil_hpv_consent_and_information.txt
+Viginia_Department_of_Health_FluVac16.txt
+They_Physician_Network_Varicella_Immunization_Cons.txt
+OxfordCounty_HPV_Vaccine_Consent_Form.txt
+Stanford_immunization_consent_form.txt
+Queensland_AUSTRALIA_Immunization_Consent_Form_HPV_001.txt
+Kansas_Immunization_Program_Vaccine_Documenation_C.txt
+Potomac_Primary_Care_flu-consent-form.txt
+Toronto_Public_Health_School_Vaccination_Consent_F.txt
+Niagra_Region_HPV_Vaccination_Consent_Form.txt
+Florida_Institute_of_Technology_Consent-Form-for-F.txt
+South_Forsyth_Family_Medicine_and_Pediatrics_vacci.txt
+Wellness_Group_INFLUENZA_CONSENT_FORM_INACTIVE.txt
+Kings_Daughters_Medical_Center_Clinic_hpv_consent.txt
+Greenwich_Central_School_District_HEPATITIS_B_VACC.txt
+Onconto_County_WI_Vaccine_Consent_Form.txt
+Nova_Scotia_Department_of_Health_and_Wellness_Scho.txt
+Queensland_AUSTRALIA_Immunization_Consent_Form_HPV.txt
+Virginia_Institute_of_Marine_Science_Parental_Gaur.txt
+HSE_Ireland_Influenza_Vaccine_Consent_Form.txt
+Kroger_Universal_Vaccination_Consent_2015.txt
+Kings_Daughters_Medical_Center_Clinic_6th_grade_ph.txt
+HealthHub_Form_HPV_Vaccination_Consent.txt
+Family_Medicine_Specialists_PC_flu_shot_consent_20.txt
+Costco_Immunization_consent_form_2012_.txt
+NHS_United_Kingdom_HPV_Vaccine_Consent_Form.txt
+Hastings_and_Prince_Edward_Counties_Imm82HPVconsen.txt
+Halton_HPV_Grade_7_Male.txt
+Kent_Community_Health_Childhood-flu-consent-form-2.txt
+Schwieterman_Pharmacies_consent-form-hpv-gardasil-.txt
+States_of_Guernsey_HPV_consent.txt
+Benzie-Leelanau_District_Health_Department_Immuniz.txt
+Rite_Aid_Vaccine_Screening_and_Consent_Form.txt
+Texas_HHS_Addendum_to_HPV_Vaccine_Consent.txt
+Capitol_Region_Education_Council_Flu_Vaccine_conse.txt
+William_and_Mary_Informed_Consent_to_Receive_Vacci.txt
+Walmart_Vaccine_Administration_Record_and_Informed.txt
 MARIJUANA_DOCTORS_medical-marijuana-consent-form_1.txt
-Blood Transfusion Consent Forms_asTextFiles/Ministry of Health Labor and Welfare_JAPAN_Blood Transfusion.txt
-Blood Transfusion Consent Forms_asTextFiles/Standford Hospital and Clinics_consentfortransfusion-nonsurgical.txt
-Blood Transfusion Consent Forms_asTextFiles/NZBLOOD_NEW ZEALAND_Consent-for-Use-of-Blood-Products.txt
-Blood Transfusion Consent Forms_asTextFiles/Providence HC_Consent for Transfusion of Blood and or Blood Products.txt
-Blood Transfusion Consent Forms_asTextFiles/UPMC_consent-to-blood.txt
-Blood Transfusion Consent Forms_asTextFiles/Western Health_Blood Product Consent and Prescription form.txt
-Blood Transfusion Consent Forms_asTextFiles/Kaiser Permanente_consent-blood.txt
-Blood Transfusion Consent Forms_asTextFiles/Southern Regional Medical Center_ConsentOrRefusalForBlood.txt
-Blood Transfusion Consent Forms_asTextFiles/Legacy Health System_Transfusion Fillable Informed Consent.txt
-Blood Transfusion Consent Forms_asTextFiles/Tillamook Regional Medical Center_Consent for Blood Transfusion.txt
-Blood Transfusion Consent Forms_asTextFiles/University Hospitals of Leicester_consent for blood tx.txt
-Blood Transfusion Consent Forms_asTextFiles/SOUTHAMPTON UNIVERSITY HOSPITALS NHS TRUST_JehovahsWitnessesBloodTransfusion.txt
-Blood Transfusion Consent Forms_asTextFiles/fvfiles_consent for blood.txt
-Blood Transfusion Consent Forms_asTextFiles/St. Michael_s_Informed consent for blood.txt
-Blood Transfusion Consent Forms_asTextFiles/Lenox Hill_Transfusion Consent.txt
-Blood Transfusion Consent Forms_asTextFiles/Health One_SWEDEN_Blood+Products+Consent.txt
-Blood Transfusion Consent Forms_asTextFiles/UCLA_Blood-Consent.txt
-Blood Transfusion Consent Forms_asTextFiles/Oregon Health and Science University)Blood-Transfusion-Consent.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Consent_endodontics2.txt
-Dental Consent Forms_asTxtFiles/UIowa_Patient-Treatment-Consent-Agreement.txt
-Dental Consent Forms_asTxtFiles/Durango_Extraction-Consent.txt
-Dental Consent Forms_asTxtFiles/National Network for Oral Health Access_Discussion-and-Refussal-of-Treamtent-English.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Consent_oralsurgery1.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Consent_bisconsentform06.txt
-Dental Consent Forms_asTxtFiles/Sunrise_Oral+Conscious+Sedation+Consent.txt
-Dental Consent Forms_asTxtFiles/BROOKLYNPERIODONTICS_Consent for Consult.txt
-Dental Consent Forms_asTxtFiles/Dentistry for Children _ Adolescents_ParentLegalGuardianConsentForm20180220.txt
-Dental Consent Forms_asTxtFiles/National Network for Oral Health Access__Endodontic-Consent-Form.txt
-Dental Consent Forms_asTxtFiles/Tischler_Periodontal_Tx_SCRP.txt
-Dental Consent Forms_asTxtFiles/National Network for Oral Health Access_Consent-for-Safety-Steps.txt
-Dental Consent Forms_asTxtFiles/PeachTree_Consent For OS Using IV Sed-Gen Anesth.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Consent_endodontics3.txt
-Dental Consent Forms_asTxtFiles/Trident_consent-to-perform-dentistry.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Consent_endodontics1.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Consent_oralsurgery2.txt
-Dental Consent Forms_asTxtFiles/Sunrise_exam+consent.txt
-Dental Consent Forms_asTxtFiles/Illinois_Parental Consent Dental.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Consent_oralsurgery3.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Consent_endodontics4.txt
-Dental Consent Forms_asTxtFiles/Pediatric Dental of Idaho_consentform.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Consent_oralsurgery7.txt
-Dental Consent Forms_asTxtFiles/National Network for Oral Health Access_Patient-Management-Techniques-English.txt
-Dental Consent Forms_asTxtFiles/National Network for Oral Health Access_Child-Photo-or-Video-Release-Consent-Form-ENGLISHSPANISH.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Consent_dentures1.txt
-Dental Consent Forms_asTxtFiles/National Network for Oral Health Access_Consent-SDF-SFDPH-Eng.txt
-Dental Consent Forms_asTxtFiles/BROOKLYNPERIODONTICS_Consent for surgicalconsent.txt
-Dental Consent Forms_asTxtFiles/Beacon_Implant-Consent.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Consent_oralsurgery6.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Consent bonegraft.txt
-Dental Consent Forms_asTxtFiles/National Network for Oral Health Access_Adult-Photo-or-Video-Release-Consent-Form-ENGLISHSPANISH.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Consent_endodontics7.txt
-Dental Consent Forms_asTxtFiles/Cornman_PatientConsentForm.txt
-Dental Consent Forms_asTxtFiles/Richland_General Dentistry Consent.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Consent general3.txt
-Dental Consent Forms_asTxtFiles/Artistic Dentistry_Restorative-informed-consent.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Consent_endodontics6.txt
-Dental Consent Forms_asTxtFiles/PeachTree_Post Op- EXT Consent Forms.txt
-Dental Consent Forms_asTxtFiles/Keith_ImplantConsent.txt
-Dental Consent Forms_asTxtFiles/Trident_informed-consent-english.txt
-Dental Consent Forms_asTxtFiles/BROOKLYNPERIODONTICS_Consent for Periodonta.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Refusal of treatment.txt
-Dental Consent Forms_asTxtFiles/Fatemi Family Dentistry_Restorative consent.txt
-Dental Consent Forms_asTxtFiles/Royal Care Dental_TREATMENT-WITHOUT-PARENT-royal.txt
-Dental Consent Forms_asTxtFiles/UMinnesota_cleft-and-craniofacial-clinics-consent-form.txt
-Dental Consent Forms_asTxtFiles/DECK DENTISTRY_Consent for In Office Whitening Treatment.txt
-Dental Consent Forms_asTxtFiles/Sunrise_Caregiver+consent+form.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Consent_ortho1.txt
-Dental Consent Forms_asTxtFiles/DECK DENTISTRY_Consent for Gingival Grafting Surgery.txt
-Dental Consent Forms_asTxtFiles/Keith_Extraction Consent.txt
-Dental Consent Forms_asTxtFiles/BROOKLYNPERIODONTICS_Consent for extraction.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Consent_gingivalaugmentation.txt
-Dental Consent Forms_asTxtFiles/General_MI-Consent-for-General-Dental-Procedures.txt
-Dental Consent Forms_asTxtFiles/National Network for Oral Health Access_Nitrous-Oxide-Consent-ENG.txt
-Dental Consent Forms_asTxtFiles/AllianceforDentalCare_updatedextractconsentform.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Consent_scalingrootplaning20.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Consent_photographs2.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Consent_Implant.txt
-Dental Consent Forms_asTxtFiles/Sunrise_Medical+Immobilization+(Papoose).txt
-Dental Consent Forms_asTxtFiles/Cambridge_Consent_general2.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Xray_Refusal_Waiver.txt
-Dental Consent Forms_asTxtFiles/DECK DENTISTRY_Consent for Endodontic Treatment (Root Canal).txt
-Dental Consent Forms_asTxtFiles/PeachTree_Anesth Serv Consent Form.txt
-Dental Consent Forms_asTxtFiles/UIowa_Consent-for-Complete-Dentures.txt
-Dental Consent Forms_asTxtFiles/BROOKLYNPERIODONTICS_Consent for ImplantConsent.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Consent_ivsedation1.txt
-Dental Consent Forms_asTxtFiles/Best Natural Smile_General-Dentistry-Consent-Form.txt
-Dental Consent Forms_asTxtFiles/Sunrise_Extraction+Consent.txt
-Dental Consent Forms_asTxtFiles/Sunrise_Consent+for+Dental+Treatment+Under+Anesthesia.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Consent_oralsurgery11.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Consent_oralsurgery10.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Consent_nitrousoxide.txt
-Dental Consent Forms_asTxtFiles/National Network for Oral Health Access_Periodontal-Treatment-Refusal-Form.txt
-Dental Consent Forms_asTxtFiles/National Network for Oral Health Access_Oral-Surgery-Consent-ENG.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Consent_splinttreatment.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Consent_oralsurgery12.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Consent_financialliabilityrelease.txt
-Dental Consent Forms_asTxtFiles/Evansville Pediatric_SurgeryConsent.txt
-Dental Consent Forms_asTxtFiles/Evansville Pediatric_SedationConsent.txt
-Dental Consent Forms_asTxtFiles/National Network for Oral Health Access_Endodontic-Treament-English.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Consent Implant.txt
-Dental Consent Forms_asTxtFiles/CarePoint_health-and-consent-adults-2017.txt
-Dental Consent Forms_asTxtFiles/CarePoint_health-and-consent-peds-2017.txt
-Dental Consent Forms_asTxtFiles/National Network for Oral Health Access_Extraction-of-Teeth-1-English.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Consent_apicoectomiesandapicalsurgery.txt
-Dental Consent Forms_asTxtFiles/UIowa_Auth-Release-PHI.txt
-Dental Consent Forms_asTxtFiles/Artistic Dentistry_Root-canal-informed-consent.txt
-Dental Consent Forms_asTxtFiles/DECK DENTISTRY_New Patient Registration and Consent Form.txt
-Dental Consent Forms_asTxtFiles/Sunrise_Crown+Choice+Consent.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Consent_periodontaltherapy.txt
-Dental Consent Forms_asTxtFiles/National Network for Oral Health Access_ENDO-Consent-Form-ENG.txt
-Dental Consent Forms_asTxtFiles/Artistic Dentistry_Whitening-informed-consent.txt
-Dental Consent Forms_asTxtFiles/Artist Works_General Consent.txt
-Dental Consent Forms_asTxtFiles/AllianceforDentalCare_updatedendoconsentform.txt
-Dental Consent Forms_asTxtFiles/ZYSIK FAMILY DENTAL_GENERAL DENTISTRY CONSENT FORM.txt
-Dental Consent Forms_asTxtFiles/Sunrise_Sealant+Consent.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Consent_endodontics11.txt
-Dental Consent Forms_asTxtFiles/Sunrise_Nitrous+Oxide+Consent.txt
-Dental Consent Forms_asTxtFiles/DECK DENTISTRY_Consent for Orthodontic Treatment.txt
-Dental Consent Forms_asTxtFiles/PeachTree_IVSedationConsentForms.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Consent_oralsurgery8.txt
-Dental Consent Forms_asTxtFiles/AllianceforDentalCare_updatedridgepresconsentform.txt
-Dental Consent Forms_asTxtFiles/Hartford_consentfordentaltreatment.txt
-Dental Consent Forms_asTxtFiles/General_dental-photography-consent-form.txt
-Dental Consent Forms_asTxtFiles/Triangle_Form-Request and Consent for Dental Treatment_ENGLISH.txt
-Dental Consent Forms_asTxtFiles/SmileShapers_general_dentistry_informed_consent.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Consent_oralsurgery9.txt
-Dental Consent Forms_asTxtFiles/National Network for Oral Health Access_Refusal-of-Recommended-Treatment-English.txt
-Dental Consent Forms_asTxtFiles/National Network for Oral Health Access_Denture-Treatment-Consent-Form.txt
-Dental Consent Forms_asTxtFiles/Sunrise_Whitening+consent.txt
-Dental Consent Forms_asTxtFiles/DECK DENTISTRY_Consent for Bone Graft Surgery.txt
-Dental Consent Forms_asTxtFiles/UIowa_Consent-to-email-PHI.txt
-Dental Consent Forms_asTxtFiles/National Network for Oral Health Access_Treatment-by-Student-English.txt
-Dental Consent Forms_asTxtFiles/AllianceforDentalCare_updatedimplantconsentform.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Consent_pulpotomy.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Consent_endodontics9.txt
-Dental Consent Forms_asTxtFiles/Sunrise_Space+Maintainer+Consent.txt
-Dental Consent Forms_asTxtFiles/National Network for Oral Health Access_Consent-for-Extraction-of-Teeth.txt
-Dental Consent Forms_asTxtFiles/DECK DENTISTRY_Consent for Crown and Bridge Treatment.txt
-Dental Consent Forms_asTxtFiles/Durango_Papoose-Consent.txt
-Dental Consent Forms_asTxtFiles/Premier Dental_Conscious Sedation Informed Consent Form.txt
-Dental Consent Forms_asTxtFiles/National Network for Oral Health Access_Dental-Treatment-English.txt
-Dental Consent Forms_asTxtFiles/Children’s Dentistry of Baytown_Ped Informed Consent.txt
-Dental Consent Forms_asTxtFiles/Cambridge_Consent_cosmetic2.txt
+Ministry of Health Labor and Welfare_JAPAN_Blood Transfusion.txt
+Standford Hospital and Clinics_consentfortransfusion-nonsurgical.txt
+NZBLOOD_NEW ZEALAND_Consent-for-Use-of-Blood-Products.txt
+Providence HC_Consent for Transfusion of Blood and or Blood Products.txt
+UPMC_consent-to-blood.txt
+Western Health_Blood Product Consent and Prescription form.txt
+Kaiser Permanente_consent-blood.txt
+Southern Regional Medical Center_ConsentOrRefusalForBlood.txt
+Legacy Health System_Transfusion Fillable Informed Consent.txt
+Tillamook Regional Medical Center_Consent for Blood Transfusion.txt
+University Hospitals of Leicester_consent for blood tx.txt
+SOUTHAMPTON UNIVERSITY HOSPITALS NHS TRUST_JehovahsWitnessesBloodTransfusion.txt
+fvfiles_consent for blood.txt
+St. Michael_s_Informed consent for blood.txt
+Lenox Hill_Transfusion Consent.txt
+Health One_SWEDEN_Blood+Products+Consent.txt
+UCLA_Blood-Consent.txt
+Oregon Health and Science University)Blood-Transfusion-Consent.txt
+Cambridge_Consent_endodontics2.txt
+UIowa_Patient-Treatment-Consent-Agreement.txt
+Durango_Extraction-Consent.txt
+National Network for Oral Health Access_Discussion-and-Refussal-of-Treamtent-English.txt
+Cambridge_Consent_oralsurgery1.txt
+Cambridge_Consent_bisconsentform06.txt
+Sunrise_Oral+Conscious+Sedation+Consent.txt
+BROOKLYNPERIODONTICS_Consent for Consult.txt
+Dentistry for Children _ Adolescents_ParentLegalGuardianConsentForm20180220.txt
+National Network for Oral Health Access__Endodontic-Consent-Form.txt
+Tischler_Periodontal_Tx_SCRP.txt
+National Network for Oral Health Access_Consent-for-Safety-Steps.txt
+PeachTree_Consent For OS Using IV Sed-Gen Anesth.txt
+Cambridge_Consent_endodontics3.txt
+Trident_consent-to-perform-dentistry.txt
+Cambridge_Consent_endodontics1.txt
+Cambridge_Consent_oralsurgery2.txt
+Sunrise_exam+consent.txt
+Illinois_Parental Consent Dental.txt
+Cambridge_Consent_oralsurgery3.txt
+Cambridge_Consent_endodontics4.txt
+Pediatric Dental of Idaho_consentform.txt
+Cambridge_Consent_oralsurgery7.txt
+National Network for Oral Health Access_Patient-Management-Techniques-English.txt
+National Network for Oral Health Access_Child-Photo-or-Video-Release-Consent-Form-ENGLISHSPANISH.txt
+Cambridge_Consent_dentures1.txt
+National Network for Oral Health Access_Consent-SDF-SFDPH-Eng.txt
+BROOKLYNPERIODONTICS_Consent for surgicalconsent.txt
+Beacon_Implant-Consent.txt
+Cambridge_Consent_oralsurgery6.txt
+Cambridge_Consent bonegraft.txt
+National Network for Oral Health Access_Adult-Photo-or-Video-Release-Consent-Form-ENGLISHSPANISH.txt
+Cambridge_Consent_endodontics7.txt
+Cornman_PatientConsentForm.txt
+Richland_General Dentistry Consent.txt
+Cambridge_Consent general3.txt
+Artistic Dentistry_Restorative-informed-consent.txt
+Cambridge_Consent_endodontics6.txt
+PeachTree_Post Op- EXT Consent Forms.txt
+Keith_ImplantConsent.txt
+Trident_informed-consent-english.txt
+BROOKLYNPERIODONTICS_Consent for Periodonta.txt
+Cambridge_Refusal of treatment.txt
+Fatemi Family Dentistry_Restorative consent.txt
+Royal Care Dental_TREATMENT-WITHOUT-PARENT-royal.txt
+UMinnesota_cleft-and-craniofacial-clinics-consent-form.txt
+DECK DENTISTRY_Consent for In Office Whitening Treatment.txt
+Sunrise_Caregiver+consent+form.txt
+Cambridge_Consent_ortho1.txt
+DECK DENTISTRY_Consent for Gingival Grafting Surgery.txt
+Keith_Extraction Consent.txt
+BROOKLYNPERIODONTICS_Consent for extraction.txt
+Cambridge_Consent_gingivalaugmentation.txt
+General_MI-Consent-for-General-Dental-Procedures.txt
+National Network for Oral Health Access_Nitrous-Oxide-Consent-ENG.txt
+AllianceforDentalCare_updatedextractconsentform.txt
+Cambridge_Consent_scalingrootplaning20.txt
+Cambridge_Consent_photographs2.txt
+Cambridge_Consent_Implant.txt
+Sunrise_Medical+Immobilization+(Papoose).txt
+Cambridge_Consent_general2.txt
+Cambridge_Xray_Refusal_Waiver.txt
+DECK DENTISTRY_Consent for Endodontic Treatment (Root Canal).txt
+PeachTree_Anesth Serv Consent Form.txt
+UIowa_Consent-for-Complete-Dentures.txt
+BROOKLYNPERIODONTICS_Consent for ImplantConsent.txt
+Cambridge_Consent_ivsedation1.txt
+Best Natural Smile_General-Dentistry-Consent-Form.txt
+Sunrise_Extraction+Consent.txt
+Sunrise_Consent+for+Dental+Treatment+Under+Anesthesia.txt
+Cambridge_Consent_oralsurgery11.txt
+Cambridge_Consent_oralsurgery10.txt
+Cambridge_Consent_nitrousoxide.txt
+National Network for Oral Health Access_Periodontal-Treatment-Refusal-Form.txt
+National Network for Oral Health Access_Oral-Surgery-Consent-ENG.txt
+Cambridge_Consent_splinttreatment.txt
+Cambridge_Consent_oralsurgery12.txt
+Cambridge_Consent_financialliabilityrelease.txt
+Evansville Pediatric_SurgeryConsent.txt
+Evansville Pediatric_SedationConsent.txt
+National Network for Oral Health Access_Endodontic-Treament-English.txt
+Cambridge_Consent Implant.txt
+CarePoint_health-and-consent-adults-2017.txt
+CarePoint_health-and-consent-peds-2017.txt
+National Network for Oral Health Access_Extraction-of-Teeth-1-English.txt
+Cambridge_Consent_apicoectomiesandapicalsurgery.txt
+UIowa_Auth-Release-PHI.txt
+Artistic Dentistry_Root-canal-informed-consent.txt
+DECK DENTISTRY_New Patient Registration and Consent Form.txt
+Sunrise_Crown+Choice+Consent.txt
+Cambridge_Consent_periodontaltherapy.txt
+National Network for Oral Health Access_ENDO-Consent-Form-ENG.txt
+Artistic Dentistry_Whitening-informed-consent.txt
+Artist Works_General Consent.txt
+AllianceforDentalCare_updatedendoconsentform.txt
+ZYSIK FAMILY DENTAL_GENERAL DENTISTRY CONSENT FORM.txt
+Sunrise_Sealant+Consent.txt
+Cambridge_Consent_endodontics11.txt
+Sunrise_Nitrous+Oxide+Consent.txt
+DECK DENTISTRY_Consent for Orthodontic Treatment.txt
+PeachTree_IVSedationConsentForms.txt
+Cambridge_Consent_oralsurgery8.txt
+AllianceforDentalCare_updatedridgepresconsentform.txt
+Hartford_consentfordentaltreatment.txt
+General_dental-photography-consent-form.txt
+Triangle_Form-Request and Consent for Dental Treatment_ENGLISH.txt
+SmileShapers_general_dentistry_informed_consent.txt
+Cambridge_Consent_oralsurgery9.txt
+National Network for Oral Health Access_Refusal-of-Recommended-Treatment-English.txt
+National Network for Oral Health Access_Denture-Treatment-Consent-Form.txt
+Sunrise_Whitening+consent.txt
+DECK DENTISTRY_Consent for Bone Graft Surgery.txt
+UIowa_Consent-to-email-PHI.txt
+National Network for Oral Health Access_Treatment-by-Student-English.txt
+AllianceforDentalCare_updatedimplantconsentform.txt
+Cambridge_Consent_pulpotomy.txt
+Cambridge_Consent_endodontics9.txt
+Sunrise_Space+Maintainer+Consent.txt
+National Network for Oral Health Access_Consent-for-Extraction-of-Teeth.txt
+DECK DENTISTRY_Consent for Crown and Bridge Treatment.txt
+Durango_Papoose-Consent.txt
+Premier Dental_Conscious Sedation Informed Consent Form.txt
+National Network for Oral Health Access_Dental-Treatment-English.txt
+Children’s Dentistry of Baytown_Ped Informed Consent.txt
+Cambridge_Consent_cosmetic2.txt
 New_York_City_Health_and_Hospitals_Corporation_DNR.txt
