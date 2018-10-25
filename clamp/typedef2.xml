@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xml>
+  <Entities>
+    <biospecimen>
+      <blood_specimen/>
+      <tissue_specimen/>
+    </biospecimen>
+    <permission_directive/>
+    <process>
+      <act_of_sharing/>
+      <act_of_collecting/>
+      <act_of_transferring_ownership/>
+      <act_of_accessing/>
+      <act_of_storing/>
+    </process>
+    <data>
+      <anonymized_data/>
+      <unanonymized_data/>
+      <personally_identifiable_information_content_entity/>
+    </data>
+    <objective_specification>
+      <research_objective_specification/>
+      <secondary_research_objective_specification/>
+      <unspecified_future_research_objective_specification/>
+    </objective_specification>
+    <organization/>
+    <role_designation>
+      <patient_role_designation/>
+      <healthcare_provider_role_designation/>
+      <legally_authorized_representative_role_designation/>
+      <witness_designation/>
+    </role_designation>
+  </Entities>
+  <Relations></Relations>
+</xml>
