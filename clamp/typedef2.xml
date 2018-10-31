@@ -7,13 +7,13 @@
       <tissue_specimen/>
     </biospecimen>
     <permission_directive/>
-    <process>
+    <process_specification>
       <act_of_sharing/>
       <act_of_collecting/>
       <act_of_transferring_ownership/>
       <act_of_accessing/>
       <act_of_storing/>
-    </process>
+    </process_specification>
     <data>
       <anonymized_data/>
       <unanonymized_data/>
