@@ -8,10 +8,8 @@
     </biospecimen>
     <permission_directive/>
     <process_specification>
-      <act_of_sharing/>
       <act_of_collecting/>
       <act_of_transferring_ownership/>
-      <act_of_accessing/>
       <act_of_storing/>
     </process_specification>
     <data>
@@ -29,6 +27,7 @@
       <patient_role_designation/>
       <healthcare_provider_role_designation/>
       <legally_authorized_representative_role_designation/>
+      <researcher_role_designation/>
       <witness_designation/>
     </role_designation>
   </Entities>
