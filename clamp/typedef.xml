@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xml>
+  <Entities>
+
+    <specimen purl='http://purl.obolibrary.org/obo/OBI_0100051'/>
+    <blood_specimen purl='http://purl.obolibrary.org/obo/OBI_0000655'/>
+    <tissue_specimen purl='http://purl.obolibrary.org/obo/OBI_0001479'/>
+
+    <planned_process purl='http://purl.obolibrary.org/obo/OBI_0000011'>
+      <biological_sample_collecting purl='http://purl.obolibrary.org/obo/ICO_0000161'/>
+      <act_of_data_sharing purl='http://purl.obolibrary.org/obo/ico.owl/ICO_0037262'/>
+      <act_of_storing purl='http://purl.obolibrary.org/obo/ICO_0037261'/>
+      <secondary_use purl='http://purl.obolibrary.org/obo/ICO_0000181'/>
+    </planned_process>
+
+    <information_content_entity purl='http://purl.obolibrary.org/obo/IAO_0000030'>
+      <objective_specification purl='http://purl.obolibrary.org/obo/IAO_0000005'/>
+      <plan_specification purl='http://purl.obolibrary.org/obo/IAO_0000104'/>
+      <permission_directive purl='http://purl.obolibrary.org/obo/RUBRIC_0000018'/>
+      <data_item purl='http://purl.obolibrary.org/obo/IAO_0000027'/>
+      <anonymized_information_content_entity purl='http://purl.obolibrary.org/obo/ICO_0000113'/>
+      <individually_identifiable_health_information_entity purl='http://purl.obolibrary.org/obo/ICO_0000083'/>
+      <description_of_future_use purl='http://purl.obolibrary.org/obo/RUBRIC_0000185'/>
+      <investigation_objective_specification purl='http://purl.obolibrary.org/obo/RUBRIC_0002001'/>
+      <legally_authorized_representative_role_directive purl="http://purl.obolibrary.org/obo/RUBRIC_0002018"/>
+      <investigator_role_directive purl="http://purl.obolibrary.org/obo/RUBRIC_0002008"/>
+      <regulatory_oversight_role purl="http://purl.obolibrary.org/obo/RUBRIC_0002007"/>
+      <patient_role_directive purl="http://purl.obolibrary.org/obo/RUBRIC_0002005"/>
+    </information_content_entity>
+
+    <organization purl='http://purl.obolibrary.org/obo/OBI_0000245'/>
+
+
+  </Entities>
+  <Relations></Relations>
+</xml>
