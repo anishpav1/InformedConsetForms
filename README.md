@@ -16,7 +16,7 @@ This project will make use of  [CLAMP](https://clamp.uth.edu/), a clinical NLP t
 1. Start CLAMP
 1. Create a new project
 1. Select 'Corpus Annotation'
-1. Replace the `typedef.xml` file in the `corpus/` directory in the newly project with the `typedef.xml` file in this repository
+1. Replace the `typedef.xml` file in the clamp project directory with the `typedef.xml` file in the [clamp](clamp/) folder.
 1. Add all `.txt` files in `data/` of this repository to the `train` directory in the CLAMP workspace
 1. Convert all `.txt` files into `.xmi` files by double-clicking on them
 1. Annotate away!

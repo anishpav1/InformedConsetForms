@@ -3,33 +3,32 @@
 <xml>
   <Entities>
 
-    <specimen purl='http://purl.obolibrary.org/obo/OBI_0100051'/>
-    <blood_specimen purl='http://purl.obolibrary.org/obo/OBI_0000655'/>
-    <tissue_specimen purl='http://purl.obolibrary.org/obo/OBI_0001479'/>
+    <specimen purl='http://purl.obolibrary.org/obo/OBI_0100051' onto_def='A material entity that has the specimen role.'/>
+    <blood_specimen purl='http://purl.obolibrary.org/obo/OBI_0000655' onto_def='A material entity derived from a portion of blood collected from an organism.'/>
+    <tissue_specimen purl='http://purl.obolibrary.org/obo/OBI_0001479' onto_def='A specimen that derives from an anatomical part or substance arising from an organism. Examples of tissue specimen include tissue, organ, physiological system, blood, or body location (arm).'/>
 
-    <planned_process purl='http://purl.obolibrary.org/obo/OBI_0000011'>
-      <biological_sample_collecting purl='http://purl.obolibrary.org/obo/ICO_0000161'/>
-      <act_of_data_sharing purl='http://purl.obolibrary.org/obo/ico.owl/ICO_0037262'/>
-      <act_of_storing purl='http://purl.obolibrary.org/obo/ICO_0037261'/>
-      <secondary_use purl='http://purl.obolibrary.org/obo/ICO_0000181'/>
+    <planned_process purl='http://purl.obolibrary.org/obo/OBI_0000011' onto_def='A processual entity that realizes a plan which is the concretization of a plan specification.'>
+      <biological_sample_collecting purl='http://purl.obolibrary.org/obo/ICO_0000161' onto_def='A planned process in which a biological sample from a subject is collected for testing.'/>
+      <act_of_data_sharing purl='http://purl.obolibrary.org/obo/ico.owl/ICO_0037262' onto_def='a planned process in which data possessed by one person or organization is shared with one or more other persons or organizations.'/>
+      <act_of_storing purl='http://purl.obolibrary.org/obo/ICO_0037261' onto_def='A planned process that involves placing a material entity in some location in order to maintain possession of it.'/>
+      <secondary_use purl='http://purl.obolibrary.org/obo/ICO_0000181' onto_def='A planned process that involves a human biological specimen originally collected for the purpose of treatment or a different investigation.'/>
     </planned_process>
 
-    <information_content_entity purl='http://purl.obolibrary.org/obo/IAO_0000030'>
-      <objective_specification purl='http://purl.obolibrary.org/obo/IAO_0000005'/>
-      <plan_specification purl='http://purl.obolibrary.org/obo/IAO_0000104'/>
-      <permission_directive purl='http://purl.obolibrary.org/obo/RUBRIC_0000018'/>
-      <data_item purl='http://purl.obolibrary.org/obo/IAO_0000027'/>
-      <anonymized_information_content_entity purl='http://purl.obolibrary.org/obo/ICO_0000113'/>
-      <individually_identifiable_health_information_entity purl='http://purl.obolibrary.org/obo/ICO_0000083'/>
-      <description_of_future_use purl='http://purl.obolibrary.org/obo/RUBRIC_0000185'/>
-      <investigation_objective_specification purl='http://purl.obolibrary.org/obo/RUBRIC_0002001'/>
-      <legally_authorized_representative_role_directive purl="http://purl.obolibrary.org/obo/RUBRIC_0002018"/>
-      <investigator_role_directive purl="http://purl.obolibrary.org/obo/RUBRIC_0002008"/>
-      <regulatory_oversight_role purl="http://purl.obolibrary.org/obo/RUBRIC_0002007"/>
-      <patient_role_directive purl="http://purl.obolibrary.org/obo/RUBRIC_0002005"/>
+    <information_content_entity purl='http://purl.obolibrary.org/obo/IAO_0000030' onto_def='A generically dependent continuant that is about some thing.'>
+      <objective_specification purl='http://purl.obolibrary.org/obo/IAO_0000005' onto_def='a directive information entity that describes an intended process endpoint. When part of a plan specification the concretization is realized in a planned process in which the bearer tries to effect the world so that the process endpoint is achieved.'/>
+      <plan_specification purl='http://purl.obolibrary.org/obo/IAO_0000104' onto_def='A directive information entity with action specifications and objective specifications as parts that, when concretized, is realized in a process in which the bearer tries to achieve the objectives by taking the actions specified.'/>
+      <permission_directive purl='http://purl.obolibrary.org/obo/RUBRIC_0000018' onto_def='A directive information entity that prescribes a deontic role that permits some action or an action that realizes a deontic role.'/>
+      <anonymized_information_content_entity purl='http://purl.obolibrary.org/obo/ICO_0000113' onto_def='An information content entity that has been processed to prevent the identification of the person with whom the data are associated, thereby enduring in a stasis of anonymization.'/>
+      <individually_identifiable_health_information_entity purl='http://purl.obolibrary.org/obo/ICO_0000083' onto_def='A protected health information entity which identifies an individual; or with respect to which there is a reasonable basis to believe the information can be used to identify an individual.'/>
+      <description_of_future_use purl='http://purl.obolibrary.org/obo/RUBRIC_0000185' onto_def='A descriptive information content entity that describes future use of material or information.'/>
+      <investigation_objective_specification purl='http://purl.obolibrary.org/obo/RUBRIC_0002001' onto_def='An objective specification whose intended process endpoint is an investigation.'/>
+      <legally_authorized_representative_role_directive purl="http://purl.obolibrary.org/obo/RUBRIC_0002018" onto_def='A role directive that prescribes the bearer of a legally authorized representative role in process.'/>
+      <investigator_role_directive purl="http://purl.obolibrary.org/obo/RUBRIC_0002008" onto_def='A role directive that prescribes the bearer of an investigator role in a process.'/>
+      <regulatory_oversight_role purl="http://purl.obolibrary.org/obo/RUBRIC_0002007" onto_def='A role directive that prescirbes the bearer of a regulatory oversight role in a process.'/>
+      <patient_role_directive purl="http://purl.obolibrary.org/obo/RUBRIC_0002005" onto_def='A role directive that prescribes the bearer of a patient role in a process.'/>
     </information_content_entity>
 
-    <organization purl='http://purl.obolibrary.org/obo/OBI_0000245'/>
+    <organization purl='http://purl.obolibrary.org/obo/OBI_0000245' onto_def='An organization is a continuant entity which can play roles,  has members, and has a set of organization rules.  Members of organizations are either organizations themselves or individual people. Members can bear specific organization member roles that are determined in the organization rules. The organization rules also determine how decisions are made on behalf of the organization by the organization members.'/>
 
 
   </Entities>
