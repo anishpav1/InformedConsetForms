@@ -16,12 +16,12 @@ def getCounts(src, type, dest):
 
             if filepath.endswith(type):
                 try:
-                    print('SUCCESS: ', str(filepath))
+                    # print('SUCCESS: ', str(filepath))
                     with open(filepath, encoding='utf-8') as f:
                         file_contents = f.read()
 
                         research_consent = 'NO'
-                        if str(filepath).__contains__('data/research_forms'):
+                        if str(filepath).__contains__('research_forms'):
                             research_consent = 'YES'
 
                         row = {
@@ -37,12 +37,12 @@ def getCounts(src, type, dest):
 
                         new_rows.append(row)
                 except Exception as e:
-                    print('\n ERROR PROCESSING: ', str(filepath), '\n', e, '\n')
+                    # print('\n ERROR PROCESSING: ', str(filepath), '\n', e, '\n')
                     continue
 
     df = pd.DataFrame(new_rows)
-    print()
-    print(df.head(10))
+    # print()
+    # print(df.head(10))
 
     df.to_csv(dest)
 
