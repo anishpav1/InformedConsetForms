@@ -57,14 +57,14 @@ def trainModels(src):
     results = []
     names = []
     for name, model in models:
-        result = cross_val_score(model, df, labels,  cv=3)
+        result = cross_val_score(model, df, labels,  cv=7)
         names.append(name)
         results.append(result)
 
+    print()
+
     for i in range(len(names)):
         print(names[i],results[i].mean())
-
-
 
 
 if __name__ == "__main__":
