@@ -5,7 +5,7 @@ import os
 import pandas as pd
 import argparse
 
-def getCounts(src, dest):
+def getCounts(src, type, dest):
 
     new_rows = []
 
@@ -14,7 +14,7 @@ def getCounts(src, dest):
             #print os.path.join(subdir, file)
             filepath = subdir + os.sep + file
 
-            if filepath.endswith(".txt"):
+            if filepath.endswith(type):
                 try:
                     print('SUCCESS: ', str(filepath))
                     with open(filepath, encoding='utf-8') as f:
@@ -51,9 +51,10 @@ if __name__ == "__main__":
 
     # parse command-line args
     parser = argparse.ArgumentParser(description='file')
-    parser.add_argument("--src", help="Directory of .txt files")
+    parser.add_argument("--src", help="Directory of files")
+    parser.add_argument("--type", help="Directory of files")
     parser.add_argument("--dest", help="Name of destination .csv")
     args = parser.parse_args()
 
     # run puppy, run
-    getCounts(args.src, args.dest)
+    getCounts(args.src, args.type, args.dest)

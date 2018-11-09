@@ -1,14 +1,24 @@
 # Data
-Informed consent forms are broken into two directories:
+Informed consent forms stored in two directories. All files are in plaintext format (`.txt`) and contain `utf-8` decodable characters. We do not store binary file types like pdfs.
 
-## Clinical Forms
-A list of clinical consent forms can be found [here](clinical_form_list.csv).
+## Tools
+There are two tools in this directory.
 
-## Research Forms
-A list of research consent forms can be found [here](research_form_list.csv).
+1. `update_form_list.sh` is a simple command-line tool to update lists of filename for each type of consent. To invoke:
+
+    ./update_form_list.sh
+
+1. `corpus_analysis.py` is a python3 command-line tool to generate a `.csv` file containing high-level data for all files in a specified directory. This command requires three positional arguments: (1) `--src` is the root directory for the search. (2) `--type` is the file type, specified as a string value corresponding to a valid extension (ex. '.txt'). (3) `--dest` is the name and destination of the output file. Example below:
+
+
+    ./corpus_analysis.py --src ./ --type .txt --dest ./analysis_output.csv
+
 
 ## Metadata
-Coming soon.
+This is an active area of development for us. Coming soon.
+
+1. A list of clinical consent form filenames can be found [here](clinical_form_list.csv).
+1. A list of research consent form filenames can be found [here](research_form_list.csv).
 
 ## List of Files Converted from OCR
 1. Cambridge_Consent_ivsedation2.txt
