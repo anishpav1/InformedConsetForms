@@ -71,7 +71,7 @@ def trainModels(src, dest):
         results_frame.loc[count, 'Model'] = name
         results_frame.loc[count, 'Score'] = score
         results_frame.loc[count, 'Cross_Validation_score'] = crossV_score.mean()
-        results_frame.loc[count, 'Cross_Validation_score'] = crossV_score.std() * 2
+        results_frame.loc[count, 'Cross_Validation_score.std'] = crossV_score.std() * 2
 
         count = count + 1
 
