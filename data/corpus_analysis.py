@@ -5,11 +5,11 @@ import os
 import pandas as pd
 import argparse
 
-def getCounts(d):
+def getCounts(src, dest):
 
     new_rows = []
 
-    for subdir, dirs, files in os.walk(d):
+    for subdir, dirs, files in os.walk(src):
         for file in files:
             #print os.path.join(subdir, file)
             filepath = subdir + os.sep + file
@@ -20,6 +20,10 @@ def getCounts(d):
                     with open(filepath, encoding='utf-8') as f:
                         file_contents = f.read()
 
+                        research_consent = 'NO'
+                        if str(filepath).__contains__('data/research_forms'):
+                            research_consent = 'YES'
+
                         row = {
                             'filename': file,
                             'word_count':len(file_contents.split()),
@@ -28,6 +32,7 @@ def getCounts(d):
                             'obligation_mentions':file_contents.count('obligation'),
                             'research_mentions':file_contents.count('research'),
                             'consent_mentions':file_contents.count('consent'),
+                            'research_consent':research_consent
                         }
 
                         new_rows.append(row)
@@ -36,15 +41,19 @@ def getCounts(d):
                     continue
 
     df = pd.DataFrame(new_rows)
+    print()
     print(df.head(10))
+
+    df.to_csv(dest)
 
 
 if __name__ == "__main__":
 
     # parse command-line args
     parser = argparse.ArgumentParser(description='file')
-    parser.add_argument("--d", help="Directory of .txt files")
+    parser.add_argument("--src", help="Directory of .txt files")
+    parser.add_argument("--dest", help="Name of destination .csv")
     args = parser.parse_args()
 
     # run puppy, run
-    getCounts(args.d)
+    getCounts(args.src, args.dest)
