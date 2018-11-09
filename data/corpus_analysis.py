@@ -5,10 +5,15 @@ import os
 import pandas as pd
 import argparse
 
-def getCounts(src, type, dest):
+def getCounts(src, type, keys, dest):
 
     new_rows = []
 
+    # open list of user provided keys
+    key_frame = pd.read_csv(keys, delimiter=',')
+    clues = key_frame['CLUES']
+
+    # iterate through dir to find all files of specified type
     for subdir, dirs, files in os.walk(src):
         for file in files:
             #print os.path.join(subdir, file)
@@ -16,34 +21,36 @@ def getCounts(src, type, dest):
 
             if filepath.endswith(type):
                 try:
-                    # print('SUCCESS: ', str(filepath))
                     with open(filepath, encoding='utf-8') as f:
                         file_contents = f.read()
 
-                        research_consent = 'NO'
+                        # if in research dir, then 1, else 0
+                        research_consent = 0
                         if str(filepath).__contains__('research_forms'):
-                            research_consent = 'YES'
+                            research_consent = 1
 
+                        # build row for addition into dataframe
                         row = {
                             'filename': file,
-                            'word_count':len(file_contents.split()),
+                            'word_count':len(file_contents.split(" ")),
                             'period_count':file_contents.count('.'),
-                            'permission_mentions':file_contents.count('permission'),
-                            'obligation_mentions':file_contents.count('obligation'),
-                            'research_mentions':file_contents.count('research'),
-                            'consent_mentions':file_contents.count('consent'),
-                            'research_consent':research_consent
+                            'research_consent':research_consent,
                         }
 
+                        # add new field for each clue
+                        for clue in clues:
+                            row.update({str(clue).replace(" ","_")+ \
+                                    '_mentions':file_contents.count(clue)})
+
+                        # append dicts to list
                         new_rows.append(row)
                 except Exception as e:
-                    # print('\n ERROR PROCESSING: ', str(filepath), '\n', e, '\n')
+                    print('\n ERROR PROCESSING: ', str(filepath), '\n', e, '\n')
                     continue
 
     df = pd.DataFrame(new_rows)
-    # print()
-    # print(df.head(10))
 
+    # save file based on positional arg
     df.to_csv(dest)
 
 
@@ -52,9 +59,10 @@ if __name__ == "__main__":
     # parse command-line args
     parser = argparse.ArgumentParser(description='file')
     parser.add_argument("--src", help="Directory of files")
-    parser.add_argument("--type", help="Directory of files")
-    parser.add_argument("--dest", help="Name of destination .csv")
+    parser.add_argument("--type", help="File extension. Ex: '.txt'")
+    parser.add_argument("--keys", help="File containing search phrases")
+    parser.add_argument("--dest", help="Name of destination .csv output")
     args = parser.parse_args()
 
     # run puppy, run
-    getCounts(args.src, args.type, args.dest)
+    getCounts(args.src, args.type, args.keys, args.dest)

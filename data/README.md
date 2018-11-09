@@ -10,10 +10,10 @@ There are two tools in this directory.
 ./update_form_list.sh
 ```
 
-1. [`corpus_analysis.py`](corpus_analysis.py) is a python3 command-line tool to generate a `.csv` file containing high-level data for all files in a specified directory. This command requires three positional arguments: (1) `--src` is the root directory for the search. (2) `--type` is the file type, specified as a string value corresponding to a valid extension (ex. '.txt'). (3) `--dest` is the name and destination of the output file. Example below:
+1. [`corpus_analysis.py`](corpus_analysis.py) is a python3 command-line tool to generate a `.csv` file containing high-level data for all files in a specified directory. This command requires four positional arguments: (1) `--src` is the root directory for the search. (2) `--type` is the file type, specified as a string value corresponding to a valid extension (ex. '.txt'). (3) `--keys` is an input `.csv` file containing search phrases, whose occurrences will be counted for each file in (1). (4) `--dest` is the name and destination of the output file. Example below:
 
 ```
-./corpus_analysis.py --src ./ --type .txt --dest ./analysis_output.csv
+./corpus_analysis.py --src ./ --type .txt --keys keys.csv --dest ./analysis_output.csv
 ```
 
 ## Metadata
