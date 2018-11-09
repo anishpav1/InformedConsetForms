@@ -2,6 +2,10 @@
 
 import pandas as pd
 import argparse
+
+from sklearn.model_selection import train_test_split
+from sklearn.model_selection import cross_val_score
+
 from sklearn.linear_model import LogisticRegression
 from sklearn.svm import SVC, LinearSVC
 from sklearn.neighbors import KNeighborsClassifier
@@ -10,10 +14,8 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.naive_bayes import GaussianNB
 from sklearn.neural_network import MLPClassifier
 
-from sklearn.model_selection import cross_val_score
 
-
-def trainModels(src):
+def trainModels(src, dest):
 
     df = pd.read_csv(src)
 
@@ -23,7 +25,7 @@ def trainModels(src):
 
     columns_to_drop = []
 
-    # convert categorical fields to codes
+    # drop categorical
     for field in df.columns:
         if df[field].dtype == 'object':
             columns_to_drop.append(field)
@@ -36,43 +38,52 @@ def trainModels(src):
         if df[column].isnull().values.any():
             df[column].fillna(0, inplace=True)
 
-    # correlations
-    corr_matrix = df.corr()
-    print(corr_matrix)
-    print()
+    X_train, X_test, y_train, y_test = train_test_split(df, labels, test_size=.4)
+
+    # # correlations
+    # corr_matrix = train_set.corr()
+    # print(corr_matrix)
+    # print()
 
     models = []
 
-    models.append(("LogisticRegression",LogisticRegression()))
-    models.append(("SVC",SVC()))
-    models.append(("LinearSVC",LinearSVC()))
+    result_rows = []
+
+    models.append(("LogisticRegression",LogisticRegression(solver='lbfgs', max_iter=10000)))
+    models.append(("SVC",SVC(gamma='scale', max_iter=-1)))
     models.append(("KNeighbors",KNeighborsClassifier()))
     models.append(("DecisionTree",DecisionTreeClassifier()))
-    models.append(("RandomForest",RandomForestClassifier()))
+    models.append(("RandomForest",RandomForestClassifier(n_estimators=100)))
     rf2 = RandomForestClassifier(n_estimators=100, criterion='gini',
                                     max_depth=10, random_state=0, max_features=None)
     models.append(("RandomForest2",rf2))
     models.append(("MLPClassifier",MLPClassifier(solver='lbfgs', random_state=0)))
 
-    results = []
-    names = []
+    count = 1
+    results_frame = pd.DataFrame()
+
     for name, model in models:
-        result = cross_val_score(model, df, labels,  cv=7)
-        names.append(name)
-        results.append(result)
+        model.fit(X_train, y_train)
 
-    print()
+        score = model.score(X_test, y_test)
+        crossV_score = cross_val_score(model, X_test, y_test,  cv=7)
 
-    for i in range(len(names)):
-        print(names[i],results[i].mean())
+        results_frame.loc[count, 'Model'] = name
+        results_frame.loc[count, 'Score'] = score
+        results_frame.loc[count, 'Cross_Validation_score'] = crossV_score.mean()
+        results_frame.loc[count, 'Cross_Validation_score'] = crossV_score.std() * 2
 
+        count = count + 1
+
+    results_frame.to_csv(dest)
 
 if __name__ == "__main__":
 
     # parse command-line args
     parser = argparse.ArgumentParser(description='file')
     parser.add_argument("--src", help=".csv file to train a model")
+    parser.add_argument("--dest", help=".csv file to train a model")
     args = parser.parse_args()
 
     # run puppy, run
-    trainModels(args.src)
+    trainModels(args.src, args.dest)
