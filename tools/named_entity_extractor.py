@@ -152,7 +152,7 @@ if __name__ == "__main__":
 
     # # parse command-line args
     parser = argparse.ArgumentParser(description='file')
-    parser.add_argument("input", help="Choose the text file to process.")
+    parser.add_argument("--input", help="Choose the text file to process.")
     args = parser.parse_args()
 
     # # run puppy, run

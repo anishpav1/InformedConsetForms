@@ -75,7 +75,8 @@ def trainModels(src, dest):
 
         count = count + 1
 
-    results_frame.to_csv(dest)
+    print(results_frame)
+    # results_frame.to_csv(dest)
 
 if __name__ == "__main__":
 
