@@ -1,8 +1,5 @@
 ## Tools
-This directory is a number of ad hoc tools used for exploratory data analysis. This tools are not robust and not intended to be used on other text corpus.
-
-## Tools
-Tools in this directory:
+This directory is a number of ad hoc tools used for exploratory data analysis. This tools are not robust and not intended to be used on other text corpus. Tools in this directory:
 
 1. [`corpus_analysis.py`](corpus_analysis.py) is a python3 command-line tool to generate a `.csv` file containing high-level data for all files in a specified directory. This command requires four positional arguments: (1) `--src` is the root directory for the search. (2) `--type` is the file type, specified as a string value corresponding to a valid extension (ex. '.txt'). (3) `--keys` is an input `.csv` file containing search phrases, whose occurrences will be counted for each file in (1). (4) `--dest` is the name and destination of the output file. Example below:
 
