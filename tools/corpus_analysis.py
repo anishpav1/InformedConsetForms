@@ -5,7 +5,7 @@ import os
 import pandas as pd
 import argparse
 
-def getCounts(src, type, keys, dest):
+def getCounts(src, file_type, keys, dest):
 
     new_rows = []
 
@@ -13,13 +13,13 @@ def getCounts(src, type, keys, dest):
     key_frame = pd.read_csv(keys, delimiter=',')
     clues = key_frame['CLUES']
 
-    # iterate through dir to find all files of specified type
+    # iterate through dir to find all files of specified file_type
     for subdir, dirs, files in os.walk(src):
         for file in files:
             #print os.path.join(subdir, file)
             filepath = subdir + os.sep + file
 
-            if filepath.endswith(type):
+            if filepath.endswith(file_type):
                 try:
                     with open(filepath, encoding='utf-8') as f:
                         file_contents = f.read()
@@ -59,10 +59,10 @@ if __name__ == "__main__":
     # parse command-line args
     parser = argparse.ArgumentParser(description='file')
     parser.add_argument("--src", help="Directory of files")
-    parser.add_argument("--type", help="File extension. Ex: '.txt'")
+    parser.add_argument("--file_type", help="File extension. Ex: '.txt'")
     parser.add_argument("--keys", help="File containing search phrases")
     parser.add_argument("--dest", help="Name of destination .csv output")
     args = parser.parse_args()
 
     # run puppy, run
-    getCounts(args.src, args.type, args.keys, args.dest)
+    getCounts(args.src, args.file_type, args.keys, args.dest)
